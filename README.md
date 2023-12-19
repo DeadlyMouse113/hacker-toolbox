@@ -4,7 +4,7 @@ Some tools can be used in multiple areas.
 
 # RECONNAISSANCE & OSINT
 
-Maltego (https://www.kali.org/tools/maltego/)
+* Maltego (https://www.kali.org/tools/maltego/)
 
 ## Find emails
 https://Hunter.io(https://Hunter.io)
