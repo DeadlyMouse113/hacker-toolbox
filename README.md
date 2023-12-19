@@ -45,6 +45,12 @@ Some tools can be used in multiple areas.
 
 # EXPLOITATION
 
+## Password Attacks
+* Hydra (https://www.kali.org/tools/hydra/)
+* Hashcat (https://www.kali.org/tools/hashcat/)
+* John The ripper (https://www.kali.org/tools/john/)
+* Medusa (https://www.kali.org/tools/medusa/)
+
 ## ACTIVE DIRECTORY
 
 # POST COMPROMISE
