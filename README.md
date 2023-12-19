@@ -3,31 +3,34 @@ A more personal list with webapplications, command-line tools and common applica
 Some tools can be used in multiple areas.
 
 # RECONNAISSANCE & OSINT
-
+* Google Fu (google is your best friend to find answers)
 * Maltego (https://www.kali.org/tools/maltego/)
 
-## Find emails
+## Emails
+### Find Emails
 * https://Hunter.io(https://Hunter.io)
 * https://Phonebook.cz
 * https://Voilanorbert.cm
 * Clearbit Connect (chrome extension)
 * TheHarvester (https://www.kali.org/tools/theharvester)
-
-## Verify emails
+### Verify Emails
 * https://Verifyemailaddress.io
 * https://Email-checker.net/validate
 
 ## Hunting Breached Credentials
 * https://www.dehashed.com (paid service)
 * https://haveibeenpwned.com
+* https://weleakinfo.io/
+* Berach-Parse (https://github.com/hmaverickadams/breach-parse)
 
-## Domain names & subdomains
+## Domain names & Subdomains
 * https://www.nslookup.io/
 * https://who.is
 * https://crt.sh
 * Sublist3r (https://www.kali.org/tools/sublist3r)
 * OWASP Amass (https://owasp.org/www-project-amass) (https://github.com/owasp-amass/amass)
 * dnsrecon (https://www.kali.org/tools/dnsrecon)
+* dig (https://www.kali.org/tools/bind9/#dig)
 
 ## What technology is used?
 * https://Builtwith.com
