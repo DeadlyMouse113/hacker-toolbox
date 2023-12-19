@@ -40,6 +40,10 @@ Some tools can be used in multiple areas.
 # ENUMERATION & SCANNING
 * Nikto (https://www.kali.org/tools/nikto)
 
+## Network scanning
+* netdiscover (https://www.kali.org/tools/netdiscover/)
+* nmap (https://www.kali.org/tools/nmap/)
+
 # VULNERABILITY SCANNING
 *  Nessus (https://www.tenable.com/products/nessus)
 
