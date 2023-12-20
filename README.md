@@ -21,7 +21,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * https://www.dehashed.com (paid service)
 * https://haveibeenpwned.com
 * https://weleakinfo.io/
-* Berach-Parse (https://github.com/hmaverickadams/breach-parse)
+* Breach-Parse (https://github.com/hmaverickadams/breach-parse)
 
 ## Domain names & Subdomains
 * https://www.nslookup.io/
