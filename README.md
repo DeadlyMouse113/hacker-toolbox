@@ -40,6 +40,11 @@ Some tools can be used in multiple areas.
 # ENUMERATION & SCANNING
 * Nikto (https://www.kali.org/tools/nikto)
 
+## Directory Busting
+* Dirbuster (https://www-kali-org.translate.goog/tools/dirbuster/)
+* Dirb (https://www.kali.org/tools/dirb/)
+* Gobuster (https://www.kali.org/tools/gobuster/)
+
 ## Network scanning
 * netdiscover (https://www.kali.org/tools/netdiscover/)
 * nmap (https://www.kali.org/tools/nmap/)
