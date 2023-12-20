@@ -38,21 +38,23 @@ Some tools can be used in multiple areas.
 * WhatWeb (https://www.kali.org/tools/whatweb)
   
 # ENUMERATION & SCANNING
-* Nikto (https://www.kali.org/tools/nikto)
+
+## Network scanning
+* netdiscover (https://www.kali.org/tools/netdiscover/)
+* nmap (https://www.kali.org/tools/nmap/)
 
 ## Directory Busting
 * Dirbuster (https://www-kali-org.translate.goog/tools/dirbuster/)
 * Dirb (https://www.kali.org/tools/dirb/)
 * Gobuster (https://www.kali.org/tools/gobuster/)
 
-## Network scanning
-* netdiscover (https://www.kali.org/tools/netdiscover/)
-* nmap (https://www.kali.org/tools/nmap/)
-
 # VULNERABILITY SCANNING
-*  Nessus (https://www.tenable.com/products/nessus)
+* Nessus (https://www.tenable.com/products/nessus)
+
+## Web Servers
 
 ## Web Application analysis
+* Nikto (https://www.kali.org/tools/nikto)
 * Burpsuite (https://portswigger.net)
 
 # EXPLOITATION
