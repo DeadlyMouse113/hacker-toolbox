@@ -51,8 +51,6 @@ Some tools can be used in multiple areas.
 # VULNERABILITY SCANNING
 * Nessus (https://www.tenable.com/products/nessus)
 
-## Web Servers
-
 ## Web Application analysis
 * Nikto (https://www.kali.org/tools/nikto)
 * Burpsuite (https://portswigger.net)
