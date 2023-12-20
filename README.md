@@ -1,6 +1,6 @@
 # hacker-toolbox
-A more personal list with webapplications, command-line tools and common applications used the hacking industry.
-Some tools can be used in multiple areas.
+A more personal list with webapplications, command-line tools and common applications used in the hacking industry.
+Some tools can be used in multiple areas or are multi-purpose.
 
 # RECONNAISSANCE & OSINT
 * Google Fu (google is your best friend to find answers)
@@ -42,6 +42,9 @@ Some tools can be used in multiple areas.
 ## Network scanning
 * netdiscover (https://www.kali.org/tools/netdiscover/)
 * nmap (https://www.kali.org/tools/nmap/)
+
+### SMB - SSH
+* smbclient (https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
 
 ## Directory Busting
 * Dirbuster (https://www-kali-org.translate.goog/tools/dirbuster/)
