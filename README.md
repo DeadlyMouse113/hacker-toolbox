@@ -45,6 +45,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 ### SMB - SSH
 * smbclient (https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
+* ssh (https://man7.org/linux/man-pages/man1/ssh.1.html)
 
 ## Directory Busting
 * Dirbuster (https://www-kali-org.translate.goog/tools/dirbuster/)
