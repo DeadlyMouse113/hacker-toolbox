@@ -56,6 +56,8 @@ Some tools can be used in multiple areas.
 * Burpsuite (https://portswigger.net)
 
 # EXPLOITATION
+* Metasploit (https://www.kali.org/tools/metasploit-framework/)  	*This framework is used for a lot more...*
+
 
 ## Password Attacks
 * Hydra (https://www.kali.org/tools/hydra/)
