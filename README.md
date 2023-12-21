@@ -62,6 +62,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 ## Vulnerability Databases
 * https://nvd.nist.gov/vuln/full-listing/
 * https://www.exploit-db.com/
+* https://www.cvedetails.com/
 
 # EXPLOITATION
 * Metasploit (https://www.kali.org/tools/metasploit-framework/)  	*This framework is used for a lot more...*
