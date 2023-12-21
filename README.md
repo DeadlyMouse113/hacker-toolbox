@@ -64,6 +64,8 @@ Some tools can be used in multiple areas or are multi-purpose.
 * https://www.exploit-db.com/
 * https://www.cvedetails.com/
 
+* Searchsploit (https://www.kali.org/tools/exploitdb/)
+
 # EXPLOITATION
 * Metasploit (https://www.kali.org/tools/metasploit-framework/)  	*This framework is used for a lot more...*
 
