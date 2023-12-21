@@ -59,9 +59,12 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Nikto (https://www.kali.org/tools/nikto)
 * Burpsuite (https://portswigger.net)
 
+## Vulnerability Databases
+* https://nvd.nist.gov/vuln/full-listing/
+* https://www.exploit-db.com/
+
 # EXPLOITATION
 * Metasploit (https://www.kali.org/tools/metasploit-framework/)  	*This framework is used for a lot more...*
-
 
 ## Password Attacks
 * Hydra (https://www.kali.org/tools/hydra/)
