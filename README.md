@@ -63,8 +63,6 @@ Some tools can be used in multiple areas or are multi-purpose.
 * https://nvd.nist.gov/vuln/full-listing/
 * https://www.exploit-db.com/
 * https://www.cvedetails.com/
-
-
 * Searchsploit (https://www.kali.org/tools/exploitdb/)
 
 # EXPLOITATION
