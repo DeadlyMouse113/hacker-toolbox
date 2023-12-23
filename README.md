@@ -43,10 +43,6 @@ Some tools can be used in multiple areas or are multi-purpose.
 * netdiscover (https://www.kali.org/tools/netdiscover/)
 * nmap (https://www.kali.org/tools/nmap/)
 
-### SMB - SSH
-* smbclient (https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
-* ssh (https://man7.org/linux/man-pages/man1/ssh.1.html)
-
 ## Directory Busting
 * Dirbuster (https://www-kali-org.translate.goog/tools/dirbuster/)
 * Dirb (https://www.kali.org/tools/dirb/)
@@ -58,7 +54,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 ## Web Application analysis
 * Nikto (https://www.kali.org/tools/nikto)
 * Burpsuite (https://portswigger.net)
-** FoxyProxy (handy proxy for burpsuite, firefox extension)
+
 
 ## Vulnerability Databases
 * https://nvd.nist.gov/vuln/full-listing/
@@ -78,3 +74,11 @@ Some tools can be used in multiple areas or are multi-purpose.
 ## ACTIVE DIRECTORY
 
 # POST COMPROMISE
+
+# OTHER HANDY TOOLS
+## Proxy - VPN
+* FoxyProxy (https://getfoxyproxy.org/, Browser Extension)
+
+## SMB - SSH
+* smbclient (https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
+* ssh (https://man7.org/linux/man-pages/man1/ssh.1.html)
