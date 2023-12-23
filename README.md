@@ -58,6 +58,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 ## Web Application analysis
 * Nikto (https://www.kali.org/tools/nikto)
 * Burpsuite (https://portswigger.net)
+** FoxyProxy (handy proxy for burpsuite, firefox extension)
 
 ## Vulnerability Databases
 * https://nvd.nist.gov/vuln/full-listing/
