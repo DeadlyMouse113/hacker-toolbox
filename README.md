@@ -70,6 +70,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Hashcat (https://www.kali.org/tools/hashcat/)
 * John The ripper (https://www.kali.org/tools/john/)
 * Medusa (https://www.kali.org/tools/medusa/)
+* hash-identifier (https://www.kali.org/tools/hash-identifier/)
 
 ## ACTIVE DIRECTORY
 
