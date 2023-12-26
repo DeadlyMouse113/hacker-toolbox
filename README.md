@@ -47,6 +47,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Dirbuster (https://www-kali-org.translate.goog/tools/dirbuster/)
 * Dirb (https://www.kali.org/tools/dirb/)
 * Gobuster (https://www.kali.org/tools/gobuster/)
+* ffuf (https://www.kali.org/tools/ffuf/)
 
 # VULNERABILITY SCANNING
 * Nessus (https://www.tenable.com/products/nessus)
@@ -54,6 +55,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 ## Web Application analysis
 * Nikto (https://www.kali.org/tools/nikto)
 * Burpsuite (https://portswigger.net)
+
 
 
 ## Vulnerability Databases
