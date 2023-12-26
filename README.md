@@ -77,6 +77,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 ## Privilege Escalation
 * peas-ng (https://www.kali.org/tools/peass-ng/)
+* --> gtfobins
 
 ## Snooping
 * pspy (https://github.com/DominicBreuker/pspy/blob/master/README.md)
@@ -95,5 +96,6 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 ## Websites
 * https://pentestmonkey.net/
+* https://gtfobins.github.io/
 
 
