@@ -77,6 +77,9 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 ## Privilege Escalation
 * peas-ng (https://www.kali.org/tools/peass-ng/)
+
+## Snooping
+* pspy (https://github.com/DominicBreuker/pspy/blob/master/README.md)
   
 ## Active Directory
 
@@ -89,3 +92,8 @@ Some tools can be used in multiple areas or are multi-purpose.
 ## SMB - SSH
 * smbclient (https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
 * ssh (https://man7.org/linux/man-pages/man1/ssh.1.html)
+
+## Websites
+* https://pentestmonkey.net/
+
+
