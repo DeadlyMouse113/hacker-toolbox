@@ -56,8 +56,6 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Nikto (https://www.kali.org/tools/nikto)
 * Burpsuite (https://portswigger.net)
 
-
-
 ## Vulnerability Databases
 * https://nvd.nist.gov/vuln/full-listing/
 * https://www.exploit-db.com/
@@ -77,7 +75,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 ## Privilege Escalation
 * peas-ng (https://www.kali.org/tools/peass-ng/)
-* --> gtfobins
+* https://gtfobins.github.io/
 
 ## Snooping
 * pspy (https://github.com/DominicBreuker/pspy/blob/master/README.md)
