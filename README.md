@@ -71,6 +71,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * John The ripper (https://www.kali.org/tools/john/)
 * Medusa (https://www.kali.org/tools/medusa/)
 * hash-identifier (https://www.kali.org/tools/hash-identifier/)
+* https://crackstation.net/
 
 ## ACTIVE DIRECTORY
 
