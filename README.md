@@ -75,7 +75,10 @@ Some tools can be used in multiple areas or are multi-purpose.
 * hash-identifier (https://www.kali.org/tools/hash-identifier/)
 * https://crackstation.net/
 
-## ACTIVE DIRECTORY
+## Privilege Escalation
+* peas-ng (https://www.kali.org/tools/peass-ng/)
+  
+## Active Directory
 
 # POST COMPROMISE
 
