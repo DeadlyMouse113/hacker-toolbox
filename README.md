@@ -72,6 +72,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Medusa (https://www.kali.org/tools/medusa/)
 * hash-identifier (https://www.kali.org/tools/hash-identifier/)
 * https://crackstation.net/
+* fcrackzip (https://www.kali.org/tools/fcrackzip/)
 
 ## Privilege Escalation
 * peas-ng (https://www.kali.org/tools/peass-ng/)
