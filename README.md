@@ -91,9 +91,10 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 ## Proxy - VPN
 * FoxyProxy (https://getfoxyproxy.org/, Browser Extension)
 
-## SMB - SSH
+## SMB - SSH - Telnet
 * smbclient (https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
 * ssh (https://man7.org/linux/man-pages/man1/ssh.1.html)
+* telnet (https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)
 
 ## Websites
 * https://pentestmonkey.net/
