@@ -98,5 +98,6 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 ## Websites
 * https://pentestmonkey.net/
 * https://gtfobins.github.io/
+* https://book.hacktricks.xyz
 
 
