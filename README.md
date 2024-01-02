@@ -75,6 +75,7 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 * hash-identifier (https://www.kali.org/tools/hash-identifier/)
 * https://crackstation.net/
 * fcrackzip (https://www.kali.org/tools/fcrackzip/)
+* https://hashes.com/en/tools/hash_identifier
 
 ## Privilege Escalation
 * peas-ng (https://www.kali.org/tools/peass-ng/)
