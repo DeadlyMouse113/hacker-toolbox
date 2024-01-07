@@ -86,6 +86,10 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
   
 ## Active Directory
 
+## Exploit Development
+### Buffer OverFlows - Spiking
+* Spike (https://www.kali.org/tools/spike/)
+
 # POST COMPROMISE
 
 # OTHER HANDY TOOLS
