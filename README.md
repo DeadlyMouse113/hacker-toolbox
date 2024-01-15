@@ -106,7 +106,7 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 * https://gtfobins.github.io/
 * https://book.hacktricks.xyz
 
-## Encoder - Decore
+## Encoder - Decoder
 * https://www.urlencoder.org/
 
 ## Search tools
