@@ -26,6 +26,7 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 * Breach-Parse (https://github.com/hmaverickadams/breach-parse)
 
 ## Domain names & Subdomains
+* fierce (https://www.kali.org/tools/fierce/)
 * https://www.nslookup.io/
 * https://who.is
 * https://crt.sh
