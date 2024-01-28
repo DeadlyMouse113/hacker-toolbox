@@ -54,6 +54,7 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 
 # VULNERABILITY SCANNING
 * Nessus (https://www.tenable.com/products/nessus)
+* Nuclei (https://github.com/projectdiscovery/nuclei)
 
 ## Web Application analysis
 * Nikto (https://www.kali.org/tools/nikto)
