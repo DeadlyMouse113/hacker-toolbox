@@ -1,8 +1,9 @@
 # NMAP
-* nmap -T4 -p -A <ip>
-
+~~~
+nmap -T4 -p -A \<ip\>
+~~~
 # Python Webserver
-* python3 -m http.server <port>
+* python3 -m http.server \<port\>
 
 # Netcat 
 ## Reverse Shell
