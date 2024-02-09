@@ -55,6 +55,10 @@ sudo -l
 ~~~
 sudo openvpn <file>.vpn
 ~~~
+# ffuf
+~~~
+ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u http://<ip>/FUZZ
+~~~
 
 
 
