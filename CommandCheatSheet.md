@@ -46,12 +46,14 @@ perl -e 'exec "/bin/sh";'
 ## From within VI
 :!bash
 ~~~
-
+# System Info
+~~~
+uname -a
+~~~
 # Privilege Escalation Check
 ~~~
 sudo -l
 ~~~
-
 # OpenVPN
 ~~~
 sudo openvpn <file>.vpn
@@ -60,6 +62,4 @@ sudo openvpn <file>.vpn
 ~~~
 ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u http://<ip>/FUZZ
 ~~~
-
-
 
