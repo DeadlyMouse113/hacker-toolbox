@@ -7,7 +7,8 @@ nmap -T4 -p- -A <target ip>
 python3 -m http.server <port>
 ~~~
 
-# Netcat 
+# Netcat
+https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 ~~~
 ## Reverse Shell
 ### Attacker Listener
