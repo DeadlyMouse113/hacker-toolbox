@@ -113,6 +113,11 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 
 ### Encoder - Decoder
 * https://www.urlencoder.org/
+* 
+### Obfuscation
+* https://www.toptal.com/developers/javascript-minifier
+* https://jsconsole.com/
+* https://beautifytools.com/javascript-obfuscator.php
 
 ## Search tools
 * strings (https://www.javatpoint.com/linux-strings-command)
