@@ -88,6 +88,7 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
   
 ## Active Directory
 * Responder (https://www.kali.org/tools/responder/)
+* ntlmrelayx (https://www.kali.org/tools/impacket-scripts/)
 
 ## Exploit Development
 ### Buffer OverFlows - Spiking
