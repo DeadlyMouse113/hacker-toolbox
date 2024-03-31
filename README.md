@@ -87,6 +87,7 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 * pspy (https://github.com/DominicBreuker/pspy/blob/master/README.md)
   
 ## Active Directory
+* Responder (https://www.kali.org/tools/responder/)
 
 ## Exploit Development
 ### Buffer OverFlows - Spiking
