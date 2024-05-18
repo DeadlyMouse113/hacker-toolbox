@@ -86,10 +86,18 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 ## Snooping
 * pspy (https://github.com/DominicBreuker/pspy/blob/master/README.md)
   
-## Active Directory
+## Active Directory: Initial Attack Vectors
 * Responder (https://www.kali.org/tools/responder/)
 * impacket-ntlmrelayx (https://www.kali.org/tools/impacket-scripts/)
+* impakcet-secretsdump (https://www.kali.org/tools/impacket-scripts/)
+* mitm6 (https://github.com/dirkjanm/mitm6/) (https://pypi.org/project/mitm6/)
 
+## Active Directory: Domain Enumeration
+* Bloodhound (https://www.kali.org/tools/bloodhound/)
+* ldapdomaindump (https://www.kali.org/tools/python-ldapdomaindump/)
+* Plumhound (https://github.com/PlumHound/PlumHound)
+* PingCastle (https://www.pingcastle.com/)
+  
 ### Shell Access (alternatives msfconsole)
 * impacket-wmiexec (https://www.kali.org/tools/impacket-scripts/)
 * impacket-smbexec (https://www.kali.org/tools/impacket-scripts/)
