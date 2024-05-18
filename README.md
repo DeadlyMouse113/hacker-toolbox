@@ -52,6 +52,13 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 * Gobuster (https://www.kali.org/tools/gobuster/)
 * ffuf (https://www.kali.org/tools/ffuf/)
 
+## Active Directory
+### Active Directory: Domain Enumeration (after account compromised)
+* Bloodhound (https://www.kali.org/tools/bloodhound/)
+* ldapdomaindump (https://www.kali.org/tools/python-ldapdomaindump/)
+* Plumhound (https://github.com/PlumHound/PlumHound)
+* PingCastle (https://www.pingcastle.com/)
+
 # VULNERABILITY SCANNING
 * Nessus (https://www.tenable.com/products/nessus)
 * Nuclei (https://github.com/projectdiscovery/nuclei)
@@ -92,13 +99,7 @@ https://tryhackme.com/signup?referrer=61ffc6b4ed7ff300494e5c8b
 * impacket-ntlmrelayx (https://www.kali.org/tools/impacket-scripts/)
 * impakcet-secretsdump (https://www.kali.org/tools/impacket-scripts/)
 * mitm6 (https://github.com/dirkjanm/mitm6/) (https://pypi.org/project/mitm6/)
-
-### Active Directory: Domain Enumeration (after account compromised)
-* Bloodhound (https://www.kali.org/tools/bloodhound/)
-* ldapdomaindump (https://www.kali.org/tools/python-ldapdomaindump/)
-* Plumhound (https://github.com/PlumHound/PlumHound)
-* PingCastle (https://www.pingcastle.com/)
-  
+ 
 ## Shell Access (alternatives msfconsole)
 * impacket-wmiexec (https://www.kali.org/tools/impacket-scripts/)
 * impacket-smbexec (https://www.kali.org/tools/impacket-scripts/)
