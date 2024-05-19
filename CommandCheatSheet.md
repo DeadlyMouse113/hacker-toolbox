@@ -64,6 +64,14 @@ ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u htt
 ~~~
 # SMB
 ~~~
+* You can make use of \\ or \\\\...\\
+## List SMB shares
 smbclient -L \\\\<target ip>\\
+
+## SMB sharing: (Password must be entered.)
+smclient <//server/share> -U <user>
+
+## Direct connection to SMB sharing:
+smclient <//server/share> -U <user>%<password>
 ~~~
 
