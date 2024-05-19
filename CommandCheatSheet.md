@@ -65,6 +65,7 @@ ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u htt
 # SMB
 ~~~
 * You can make use of // or \\\\...\\
+* Don't forget sudo if you want to download to your own folder
 ## List SMB shares
 smbclient -L \\\\<target ip>\\
 
@@ -72,5 +73,12 @@ smbclient -L \\\\<target ip>\\
 smbclient \\\\<target ip>\\<share>
 smbclient \\\\<target ip>\\<share> -U <user>
 smbclient \\\\<target ip>\\<share> -U <user>%<password>
+
+## Commands
+dir
+put
+get
+exit
+more
 ~~~
 
