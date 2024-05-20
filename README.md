@@ -98,7 +98,6 @@ Some tools can be used in multiple areas or are multi-purpose.
 ### Active Directory: Initial Attack Vectors
 * Responder (https://www.kali.org/tools/responder/)
 * impacket-ntlmrelayx (https://www.kali.org/tools/impacket-scripts/)
-* impakcet-secretsdump (https://www.kali.org/tools/impacket-scripts/)
 * mitm6 (https://github.com/dirkjanm/mitm6/) (https://pypi.org/project/mitm6/)
  
 ## Shell Access (alternatives msfconsole)
@@ -111,6 +110,10 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Spike (https://www.kali.org/tools/spike/)
 
 # POST COMPROMISE
+## Active Directory
+### Active Directory: Post-Compromise Attacks
+* impakcet-secretsdump (https://www.kali.org/tools/impacket-scripts/)
+* crackmapexec (https://www.kali.org/tools/crackmapexec/)
 
 # OTHER HANDY TOOLS
 ## Proxy - VPN
