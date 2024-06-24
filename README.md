@@ -33,6 +33,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * https://haveibeenpwned.com
 * https://weleakinfo.io/
 * Breach-Parse (https://github.com/hmaverickadams/breach-parse)
+* https://scylla.sh/ (goes down now and then)
 
 ## Domain names & Subdomains
 * fierce (https://www.kali.org/tools/fierce/)
