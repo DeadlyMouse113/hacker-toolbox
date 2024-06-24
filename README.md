@@ -21,11 +21,12 @@ Some tools can be used in multiple areas or are multi-purpose.
 * https://Hunter.io(https://Hunter.io)
 * https://Phonebook.cz
 * https://Voilanorbert.cm
-* Clearbit Connect (chrome extension)
+* Clearbit Connect (chrome extension) 
 * TheHarvester (https://www.kali.org/tools/theharvester)
+  
 ### Verify Emails
-* https://Verifyemailaddress.io
-* https://Email-checker.net/validate
+* Email Hippo - https://tools.emailhippo.com/
+* Email Checker - https://Email-checker.net/validate
 
 ## Hunting Breached Credentials
 * https://www.dehashed.com (paid service)
