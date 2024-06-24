@@ -18,9 +18,9 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 ## Emails
 ### Find Emails
-* https://Hunter.io(https://Hunter.io)
-* https://Phonebook.cz
-* https://Voilanorbert.cm
+* Hunter - https://Hunter.io(https://Hunter.io)
+* Phonebook - https://Phonebook.cz
+* VoilaNorbert - https://Voilanorbert.com
 * Clearbit Connect (chrome extension) 
 * TheHarvester (https://www.kali.org/tools/theharvester)
   
