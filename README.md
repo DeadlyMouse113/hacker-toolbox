@@ -9,14 +9,14 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Google Fu (google is your best friend to find answers)
 * Maltego (https://www.kali.org/tools/maltego/)
 
-## Images
+## Image OSINT
 * https://jimpl.com/ (EXIF Data)
 * https://lens.google.com
 * https://yandex.com
 * https://tineye.com
 * https://pimeyes.com (paid)
 
-## Emails
+## Email OSINT
 ### Find Emails
 * Hunter - https://Hunter.io(https://Hunter.io)
 * Phonebook - https://Phonebook.cz
@@ -28,7 +28,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Email Hippo - https://tools.emailhippo.com/
 * Email Checker - https://Email-checker.net/validate
 
-## Hunting Breached Credentials
+## Password OSINT (Hunting Breached Credentials)
 * https://www.dehashed.com (paid service)
 * https://haveibeenpwned.com
 * https://weleakinfo.io/
