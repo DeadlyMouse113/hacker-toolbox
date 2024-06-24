@@ -22,18 +22,25 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Phonebook - https://Phonebook.cz
 * VoilaNorbert - https://Voilanorbert.com
 * Clearbit Connect (chrome extension) 
-* TheHarvester (https://www.kali.org/tools/theharvester)
+* TheHarvester - (https://www.kali.org/tools/theharvester)
   
 ### Verify Emails
 * Email Hippo - https://tools.emailhippo.com/
 * Email Checker - https://Email-checker.net/validate
 
 ## Password OSINT (Hunting Breached Credentials)
-* https://www.dehashed.com (paid service)
-* https://haveibeenpwned.com
-* https://weleakinfo.io/
-* Breach-Parse (https://github.com/hmaverickadams/breach-parse)
-* https://scylla.sh/ (goes down now and then)
+* Dehashed - https://dehashed.com/
+* WeLeakInfo - https://weleakinfo.to/v2/
+* LeakCheck - https://leakcheck.io/
+* SnusBase - https://snusbase.com/
+* Scylla.sh - https://scylla.sh/ (goes down now and then)
+* HaveIBeenPwned - https://haveibeenpwned.com/
+* Breach-Parse - ( https://github.com/hmaverickadams/breach-parse)![afbeelding](https://github.com/DeadlyMouse113/hacker-toolbox/assets/121127124/e4074dc1-5412-4a8d-a231-360db30be8af)
+
+## Username OSINT
+* NameChk - https://namechk.com/
+* WhatsMyName - https://whatsmyname.app/
+* NameCheckup - https://namecheckup.com/
 
 ## Domain names & Subdomains
 * fierce (https://www.kali.org/tools/fierce/)
