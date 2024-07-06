@@ -53,6 +53,16 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Spokeo - https://www.spokeo.com/
 * That'sThem - https://thatsthem.com/
 
+### Voter Records (U.S.)
+* Voter Records - https://www.voterrecords.com/
+
+### Phone Numbers
+* TrueCaller - https://www.truecaller.com/
+* CallerID Test - https://calleridtest.com/
+* Infobel - https://infobel.com/
+
+## Social Media OSINT
+
 ## Domain names & Subdomains
 * fierce (https://www.kali.org/tools/fierce/)
 * https://www.nslookup.io/
