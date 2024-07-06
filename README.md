@@ -42,6 +42,17 @@ Some tools can be used in multiple areas or are multi-purpose.
 * WhatsMyName - https://whatsmyname.app/
 * NameCheckup - https://namecheckup.com/
 
+## People OSINT (people, phones, addresses, birthday...)
+* WhitePages - https://www.whitepages.com/
+* TruePeopleSearch - https://www.truepeoplesearch.com/
+* FastPeopleSearch - https://www.fastpeoplesearch.com/
+* FastBackgroundCheck - https://www.fastbackgroundcheck.com/
+* WebMii - https://webmii.com/
+* PeekYou - https://peekyou.com/
+* 411 - https://www.411.com/
+* Spokeo - https://www.spokeo.com/
+* That'sThem - https://thatsthem.com/
+
 ## Domain names & Subdomains
 * fierce (https://www.kali.org/tools/fierce/)
 * https://www.nslookup.io/
