@@ -62,6 +62,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Infobel - https://infobel.com/
 
 ## Social Media OSINT
+* Twitter Advanced Search - https://twitter.com/search-advanced/
 
 ## Domain names & Subdomains
 * fierce (https://www.kali.org/tools/fierce/)
