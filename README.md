@@ -63,6 +63,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 ## Social Media OSINT
 * Twitter Advanced Search - https://twitter.com/search-advanced/
+* OSINT Tool Collection - https://github.com/rmdir-rp/OSINT-twitter-tools
 
 ## Domain names & Subdomains
 * fierce (https://www.kali.org/tools/fierce/)
