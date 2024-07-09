@@ -61,9 +61,16 @@ Some tools can be used in multiple areas or are multi-purpose.
 * CallerID Test - https://calleridtest.com/
 * Infobel - https://infobel.com/
 
-## Social Media OSINT
+## Stocial Media OSINT
+### Twitter
 * Twitter Advanced Search - https://twitter.com/search-advanced/
 * OSINT Tool Collection - https://github.com/rmdir-rp/OSINT-twitter-tools
+### Facebook
+### Instagram
+### Snapchat
+### Reddit
+### LinkedIn
+### TikTok
 
 ## Domain names & Subdomains
 * fierce (https://www.kali.org/tools/fierce/)
