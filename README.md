@@ -66,6 +66,10 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Twitter Advanced Search - https://twitter.com/search-advanced/
 * OSINT Tool Collection - https://github.com/rmdir-rp/OSINT-twitter-tools
 ### Facebook
+* Sowdust Github - https://sowsearch.info 
+* IntelligenceX Facebook Search - https://intelx.io/tools?tab=facebook
+* Social Searcher - https://www.social-searcher.com
+
 ### Instagram
 ### Snapchat
 ### Reddit
