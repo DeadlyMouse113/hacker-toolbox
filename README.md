@@ -71,10 +71,21 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Social Searcher - https://www.social-searcher.com
 
 ### Instagram
+* ImgInn - https://imginn.com
+* Osingram - https://github.com/Datalux/Osintgram
+
 ### Snapchat
+* Snapchat Maps - https://map.snapchat.com
+
 ### Reddit
+
+
 ### LinkedIn
+
+
 ### TikTok
+
+## Website OSINT
 
 ## Domain names & Subdomains
 * fierce (https://www.kali.org/tools/fierce/)
