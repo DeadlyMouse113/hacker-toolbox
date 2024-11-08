@@ -61,7 +61,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * CallerID Test - https://calleridtest.com/
 * Infobel - https://infobel.com/
 
-## Stocial Media OSINT
+## Social Media OSINT
 ### Twitter
 * Twitter Advanced Search - https://twitter.com/search-advanced/
 * OSINT Tool Collection - https://github.com/rmdir-rp/OSINT-twitter-tools
