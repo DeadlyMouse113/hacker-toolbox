@@ -87,11 +87,17 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Virus Total - https://www.virustotal.com/
 * Visual Ping - https://visualping.io/
 * Back Link Watch - http://backlinkwatch.com/index.php
+* urlscan.io - https://urlscan.io/
+* Web Check - https://web-check.as93.net/
+* Shodan - https://shodan.io
+* Wayback Machine - https://web.archive.org/
+
 
 ### Domain names & Subdomains
 * Domain Dossier - https://centralops.net/co/
 * DNSlytics - https://dnslytics.com/reverse-ip/
 * View DNS - https://viewdns.info/
+* DNSdumpster - https://dnsdumpster.com/
 
 * fierce - https://www.kali.org/tools/fierce/
 * nslookup -  https://www.nslookup.io/
