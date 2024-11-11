@@ -88,7 +88,6 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Visual Ping - https://visualping.io/
 * Back Link Watch - http://backlinkwatch.com/index.php
 * urlscan.io - https://urlscan.io/
-* Web Check - https://web-check.as93.net/
 * Shodan - https://shodan.io
 * Wayback Machine - https://web.archive.org/
 
@@ -98,11 +97,12 @@ Some tools can be used in multiple areas or are multi-purpose.
 * DNSlytics - https://dnslytics.com/reverse-ip/
 * View DNS - https://viewdns.info/
 * DNSdumpster - https://dnsdumpster.com/
+* Web Check - https://web-check.as93.net/
+* Certificate Search - https://crt.sh
 
 * fierce - https://www.kali.org/tools/fierce/
 * nslookup -  https://www.nslookup.io/
 * whois - https://who.is
-* Certificate Search - https://crt.sh
 * Sublist3r - https://www.kali.org/tools/sublist3r
 * OWASP Amass - https://owasp.org/www-project-amass (https://github.com/owasp-amass/amass)
 * dnsrecon - https://www.kali.org/tools/dnsrecon
