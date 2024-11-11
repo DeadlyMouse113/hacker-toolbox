@@ -83,30 +83,29 @@ Some tools can be used in multiple areas or are multi-purpose.
 * TikTok
 
 ## Website OSINT
-* BuiltWith - https://builtwith.com/
-* Domain Dossier - https://centralops.net/co/
-* DNSlytics - https://dnslytics.com/reverse-ip
 * SpyOnWeb - https://spyonweb.com/
 * Virus Total - https://www.virustotal.com/
 * Visual Ping - https://visualping.io/
 * Back Link Watch - http://backlinkwatch.com/index.php
-* View DNS - https://viewdns.info/![afbeelding](https://github.com/user-attachments/assets/af8fd249-61d2-4437-9434-7846a837c355)
 
+### Domain names & Subdomains
+* Domain Dossier - https://centralops.net/co/
+* DNSlytics - https://dnslytics.com/reverse-ip/
+* View DNS - https://viewdns.info/
 
-## Domain names & Subdomains
-* fierce (https://www.kali.org/tools/fierce/)
-* https://www.nslookup.io/
-* https://who.is
-* https://crt.sh
-* Sublist3r (https://www.kali.org/tools/sublist3r)
-* OWASP Amass (https://owasp.org/www-project-amass) (https://github.com/owasp-amass/amass)
-* dnsrecon (https://www.kali.org/tools/dnsrecon)
-* dig (https://www.kali.org/tools/bind9/#dig)
+* fierce - https://www.kali.org/tools/fierce/
+* nslookup -  https://www.nslookup.io/
+* whois - https://who.is
+* Certificate Search - https://crt.sh
+* Sublist3r - https://www.kali.org/tools/sublist3r
+* OWASP Amass - https://owasp.org/www-project-amass (https://github.com/owasp-amass/amass)
+* dnsrecon - https://www.kali.org/tools/dnsrecon
+* dig - https://www.kali.org/tools/bind9/#dig
 
-## What technology is used?
-* https://Builtwith.com
+### What technology is used?
+* BuiltWith - https://Builtwith.com
 * Wappalyzer (firefox extension)
-* WhatWeb (https://www.kali.org/tools/whatweb)
+* WhatWeb - https://www.kali.org/tools/whatweb
   
 # ENUMERATION & SCANNING
 
