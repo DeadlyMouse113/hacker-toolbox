@@ -112,7 +112,14 @@ Some tools can be used in multiple areas or are multi-purpose.
 * BuiltWith - https://Builtwith.com
 * Wappalyzer (firefox extension)
 * WhatWeb - https://www.kali.org/tools/whatweb
-  
+
+## Business OSINT
+* Check LinkedIn
+* Open Corporates - https://opencorporates.com/
+* AI HIT - https://www.aihitdata.com/
+
+## Wireless OSINT
+
 # ENUMERATION & SCANNING
 
 ## Network scanning
