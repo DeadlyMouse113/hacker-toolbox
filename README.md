@@ -77,11 +77,10 @@ Some tools can be used in multiple areas or are multi-purpose.
 ### Snapchat
 * Snapchat Maps - https://map.snapchat.com
 
-### Reddit
-
-
-### LinkedIn
-
+### Other platforms than can be very useful
+* Reddit
+* LinkedIn
+* TikTok
 
 ### TikTok
 
