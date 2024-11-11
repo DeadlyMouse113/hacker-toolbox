@@ -82,9 +82,16 @@ Some tools can be used in multiple areas or are multi-purpose.
 * LinkedIn
 * TikTok
 
-### TikTok
-
 ## Website OSINT
+* BuiltWith - https://builtwith.com/
+* Domain Dossier - https://centralops.net/co/
+* DNSlytics - https://dnslytics.com/reverse-ip
+* SpyOnWeb - https://spyonweb.com/
+* Virus Total - https://www.virustotal.com/
+* Visual Ping - https://visualping.io/
+* Back Link Watch - http://backlinkwatch.com/index.php
+* View DNS - https://viewdns.info/![afbeelding](https://github.com/user-attachments/assets/af8fd249-61d2-4437-9434-7846a837c355)
+
 
 ## Domain names & Subdomains
 * fierce (https://www.kali.org/tools/fierce/)
