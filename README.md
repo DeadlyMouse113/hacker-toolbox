@@ -23,9 +23,10 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Hunter - https://Hunter.io(https://Hunter.io)
 * Phonebook - https://Phonebook.cz
 * VoilaNorbert - https://Voilanorbert.com
-* Clearbit Connect (chrome extension) 
-* TheHarvester - (https://www.kali.org/tools/theharvester)
+* Clearbit Connect (chrome extension)
   
+* TheHarvester - https://www.kali.org/tools/theharvester
+
 ### Verify Emails
 * Email Hippo - https://tools.emailhippo.com/
 * Email Checker - https://Email-checker.net/validate
@@ -37,13 +38,16 @@ Some tools can be used in multiple areas or are multi-purpose.
 * SnusBase - https://snusbase.com/
 * Scylla.sh - https://scylla.sh/ (goes down now and then)
 * HaveIBeenPwned - https://haveibeenpwned.com/
-  
+
+* DeHashed-API-Tool - https://github.com/hmaverickadams/DeHashed-API-Tool (account required)
 * Breach-Parse - https://github.com/hmaverickadams/breach-parse
 
 ## Username OSINT
 * NameChk - https://namechk.com/
 * WhatsMyName - https://whatsmyname.app/
 * NameCheckup - https://namecheckup.com/
+
+* sherlock - https://www.kali.org/tools/sherlock/
 
 ## People OSINT (people, phones, addresses, birthday...)
 * WhitePages - https://www.whitepages.com/
@@ -63,6 +67,8 @@ Some tools can be used in multiple areas or are multi-purpose.
 * TrueCaller - https://www.truecaller.com/
 * CallerID Test - https://calleridtest.com/
 * Infobel - https://infobel.com/
+
+* phoneinfoga - https://github.com/sundowndev/phoneinfoga (https://sundowndev.github.io/phoneinfoga/)
 
 ## Social Media OSINT
 ### Twitter
