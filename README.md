@@ -7,7 +7,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 # RECONNAISSANCE & OSINT
 * Google Fu (google is your best friend to find answers)
-* Maltego (https://www.kali.org/tools/maltego/)
+* Maltego - https://www.kali.org/tools/maltego/
 
 ## Image OSINT
 * https://jimpl.com/ (EXIF Data)
@@ -15,6 +15,8 @@ Some tools can be used in multiple areas or are multi-purpose.
 * https://yandex.com
 * https://tineye.com
 * https://pimeyes.com (paid)
+  
+* exiftool - https://www.kali.org/tools/libimage-exiftool-perl/#exiftool
 
 ## Email OSINT
 ### Find Emails
@@ -35,7 +37,8 @@ Some tools can be used in multiple areas or are multi-purpose.
 * SnusBase - https://snusbase.com/
 * Scylla.sh - https://scylla.sh/ (goes down now and then)
 * HaveIBeenPwned - https://haveibeenpwned.com/
-* Breach-Parse - ( https://github.com/hmaverickadams/breach-parse)![afbeelding](https://github.com/DeadlyMouse113/hacker-toolbox/assets/121127124/e4074dc1-5412-4a8d-a231-360db30be8af)
+  
+* Breach-Parse - https://github.com/hmaverickadams/breach-parse
 
 ## Username OSINT
 * NameChk - https://namechk.com/
@@ -64,7 +67,9 @@ Some tools can be used in multiple areas or are multi-purpose.
 ## Social Media OSINT
 ### Twitter
 * Twitter Advanced Search - https://twitter.com/search-advanced/
+  
 * OSINT Tool Collection - https://github.com/rmdir-rp/OSINT-twitter-tools
+  
 ### Facebook
 * Sowdust Github - https://sowsearch.info 
 * IntelligenceX Facebook Search - https://intelx.io/tools?tab=facebook
@@ -99,14 +104,15 @@ Some tools can be used in multiple areas or are multi-purpose.
 * DNSdumpster - https://dnsdumpster.com/
 * Web Check - https://web-check.as93.net/
 * Certificate Search - https://crt.sh
-
-* fierce - https://www.kali.org/tools/fierce/
-* nslookup -  https://www.nslookup.io/
 * whois - https://who.is
+* nslookup -  https://www.nslookup.io/
+  
+* fierce - https://www.kali.org/tools/fierce/
 * Sublist3r - https://www.kali.org/tools/sublist3r
-* OWASP Amass - https://owasp.org/www-project-amass (https://github.com/owasp-amass/amass)
 * dnsrecon - https://www.kali.org/tools/dnsrecon
 * dig - https://www.kali.org/tools/bind9/#dig
+
+* OWASP Amass - https://owasp.org/www-project-amass (https://github.com/owasp-amass/amass)
 
 ### What technology is used?
 * BuiltWith - https://Builtwith.com
