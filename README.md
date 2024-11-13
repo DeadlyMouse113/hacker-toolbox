@@ -7,7 +7,13 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 # RECONNAISSANCE & OSINT
 * Google Fu (google is your best friend to find answers)
+
+## Frameworks OSINT
 * Maltego - https://www.kali.org/tools/maltego/
+* FinalRecon - https://www.kali.org/tools/finalrecon/ (https://github.com/thewhiteh4t/FinalRecon)
+* recon-ng - https://www.kali.org/tools/recon-ng/ (https://github.com/lanmaster53/recon-ng)
+* sn0int - https://www.kali.org/tools/sn0int/ (https://github.com/kpcyrd/sn0int)
+* Spiderfoot - https://www.kali.org/tools/spiderfoot/ (https://github.com/smicallef/spiderfoot)
 
 ## Image OSINT
 * https://jimpl.com/ (EXIF Data)
