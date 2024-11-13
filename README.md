@@ -7,6 +7,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 # RECONNAISSANCE & OSINT
 * Google Fu (google is your best friend to find answers)
+* Hunchly - https://hunch.ly/ (web capture tool - only runs in google chrome)
 
 ## Frameworks OSINT
 * Maltego - https://www.kali.org/tools/maltego/
