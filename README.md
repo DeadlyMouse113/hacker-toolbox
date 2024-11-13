@@ -119,6 +119,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * AI HIT - https://www.aihitdata.com/
 
 ## Wireless OSINT
+* WiGLE - https://wigle.net/
 
 # ENUMERATION & SCANNING
 
