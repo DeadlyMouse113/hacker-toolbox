@@ -123,6 +123,10 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Sublist3r - https://www.kali.org/tools/sublist3r
 * dnsrecon - https://www.kali.org/tools/dnsrecon
 * dig - https://www.kali.org/tools/bind9/#dig
+* subfinder - https://github.com/projectdiscovery/subfinder
+* Assetfinder - https://github.com/tomnomnom/assetfinder
+* httprobe - https://github.com/tomnomnom/httprobe
+
 
 * OWASP Amass - https://owasp.org/www-project-amass (https://github.com/owasp-amass/amass)
 
@@ -215,7 +219,9 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 # OTHER HANDY TOOLS
 ## OSINT
-* Hunchly - https://hunch.ly/ (web capture tool - only runs in google chrome)
+* Hunchly - https://hunch.ly/ (web capture tool - Google Chrome - paid)
+* GoWitness - https://github.com/sensepost/gowitness/wiki/Installation (web capture tool - Google Chrome)
+
 
 ## Proxy - VPN
 * FoxyProxy (https://getfoxyproxy.org/, Browser Extension)
