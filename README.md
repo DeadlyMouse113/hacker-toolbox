@@ -118,6 +118,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Certificate Search - https://crt.sh
 * whois - https://who.is
 * nslookup -  https://www.nslookup.io/
+* Icann - https://lookup.icann.org
   
 * fierce - https://www.kali.org/tools/fierce/
 * Sublist3r - https://www.kali.org/tools/sublist3r
