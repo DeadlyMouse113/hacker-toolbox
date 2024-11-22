@@ -9,6 +9,8 @@ Some tools can be used in multiple areas or are multi-purpose.
 * Google Fu (google is your best friend to find answers)
 
 ## Frameworks OSINT
+* OSINT Framework - https://osintframework.com/ (you will find even more tools in here)
+
 * Maltego - https://www.kali.org/tools/maltego/
 * FinalRecon - https://www.kali.org/tools/finalrecon/ (https://github.com/thewhiteh4t/FinalRecon)
 * recon-ng - https://www.kali.org/tools/recon-ng/ (https://github.com/lanmaster53/recon-ng)
