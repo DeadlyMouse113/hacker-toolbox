@@ -152,6 +152,10 @@ Some tools can be used in multiple areas or are multi-purpose.
 * netdiscover (https://www.kali.org/tools/netdiscover/)
 * nmap (https://www.kali.org/tools/nmap/)
 
+## Samba/SMB enumeration
+* enum4linux - https://www.kali.org/tools/enum4linux/
+* smbmap - https://www.kali.org/tools/smbmap/
+
 ## Directory Busting
 * Dirbuster (https://www-kali-org.translate.goog/tools/dirbuster/)
 * Dirb (https://www.kali.org/tools/dirb/)
