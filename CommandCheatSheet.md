@@ -82,11 +82,13 @@ smbclient -L \\\\<target ip>\\
 smbclient \\\\<target ip>\\<share>
 smbclient \\\\<target ip>\\<share> -U <user>
 smbclient \\\\<target ip>\\<share> -U <user>%<password>
+smbclient \\\\<target ip>\\<share> -U <user> -p <port>
 
 ## Commands
+cd
 dir
 put
-get
-exit
 more
+get <remote-file> <local-file name>
+exit
 ~~~
