@@ -62,6 +62,13 @@ sudo openvpn <file>.vpn
 ~~~
 ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u http://<ip>/FUZZ
 ~~~
+# SSH
+~~
+# Specify specifi file to authenticate
+ssh -i <privatekeyfile> <username>@<ipaddress>
+ssh -i id_rsa john@10.10.6.100
+~~
+
 # SMB
 ![afbeelding](https://github.com/user-attachments/assets/f0f99542-4082-4e29-8b88-f752714038f5)
 https://www.computerhope.com/unix/smbclien.htm 
