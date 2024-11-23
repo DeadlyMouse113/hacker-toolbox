@@ -64,6 +64,7 @@ ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u htt
 ~~~
 # SMB
 ![afbeelding](https://github.com/user-attachments/assets/f0f99542-4082-4e29-8b88-f752714038f5)
+https://www.computerhope.com/unix/smbclien.htm 
 ~~~
 * You can make use of // or \\\\...\\
 * Don't forget sudo if you want to download to your own folder
