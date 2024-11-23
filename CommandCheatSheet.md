@@ -64,7 +64,7 @@ ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u htt
 ~~~
 # SSH
 ~~
-# Specify specifi file to authenticate
+#Specify specific file to authenticate
 ssh -i <privatekeyfile> <username>@<ipaddress>
 ssh -i id_rsa john@10.10.6.100
 ~~
