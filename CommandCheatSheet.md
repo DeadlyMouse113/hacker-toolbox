@@ -69,8 +69,9 @@ ssh -i <privatekeyfile> <username>@<ipaddress>
 ssh -i id_rsa john@10.10.6.100
 ~~~
 # smbmap
+~~~
 smbmap -H <targetip> -u 'ananymous'
-
+~~~
 # SMB
 ![afbeelding](https://github.com/user-attachments/assets/f0f99542-4082-4e29-8b88-f752714038f5)
 https://www.computerhope.com/unix/smbclien.htm 
