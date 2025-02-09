@@ -221,9 +221,10 @@ Some tools can be used in multiple areas or are multi-purpose.
 # POST COMPROMISE
 ## Active Directory
 ### Active Directory: Post-Compromise Attacks
-* impakcet-secretsdump (https://www.kali.org/tools/impacket-scripts/)
+* impacket-secretsdump - (https://www.kali.org/tools/impacket-scripts/)
 * crackmapexec - (https://www.kali.org/tools/crackmapexec/)
 * NetExec - (https://github.com/Pennyw0rth/NetExec)
+* evil-winrm (https://www.kali.org/tools/evil-winrm/)
 
 # OTHER HANDY TOOLS
 ## OSINT
