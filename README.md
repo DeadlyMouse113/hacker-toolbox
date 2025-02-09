@@ -224,7 +224,8 @@ Some tools can be used in multiple areas or are multi-purpose.
 * impacket-secretsdump - (https://www.kali.org/tools/impacket-scripts/)
 * crackmapexec - (https://www.kali.org/tools/crackmapexec/)
 * NetExec - (https://github.com/Pennyw0rth/NetExec)
-* evil-winrm (https://www.kali.org/tools/evil-winrm/)
+* evil-winrm - (https://www.kali.org/tools/evil-winrm/)
+* bloodyAD - (https://www.kali.org/tools/bloodyad/)
 
 # OTHER HANDY TOOLS
 ## OSINT
