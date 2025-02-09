@@ -88,8 +88,8 @@ smbclient \\\\<target ip>\\<share> -U <user>
 smbclient \\\\<target ip>\\<share> -U <user>%<password>
 smbclient \\\\<target ip>\\<share> -U <user> -p <port>
 
-smbclient "//<target ip>/<share with space in name>" -U <domain>\\<username>"
-smbclient "\\\\<target ip>\\<share with space in name>" -U <domain>\\<username>"
+smbclient "//<target ip>/<share with space in name>" -U "<domain>\\<username>"
+smbclient "\\\\<target ip>\\<share with space in name>" -U "<domain>\\<username>"
 
 ## Commands
 cd
