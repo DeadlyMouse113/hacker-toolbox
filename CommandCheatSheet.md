@@ -115,3 +115,20 @@ more
 get <remote-file> <local-file name>
 exit
 ~~~
+# FTP
+~~~
+Command/Option	Example	Description
+ftp host	| ftp ftp.example.com	 |Connect to an FTP server
+open host	| open ftp.example.com	| Connect to an FTP server
+user	 | user username password	| Log in with username and password
+ls	| ls	List files in the current directory
+cd	cd /path/to/dir	Change remote directory
+get	get file.txt	Download a file from the server
+put	put file.txt	Upload a file to the server
+mget	mget *.txt	Download multiple files
+mput	mput *.txt	Upload multiple files
+delete	delete file.txt	Delete a file on the server
+mkdir	mkdir newdir	Create a new directory on the server
+rmdir	rmdir olddir	Remove a directory on the server
+bye	bye	Close the connection and exit
+~~~
