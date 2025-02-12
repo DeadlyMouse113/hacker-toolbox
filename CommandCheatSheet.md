@@ -68,6 +68,22 @@ ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u htt
 ssh -i <privatekeyfile> <username>@<ipaddress>
 ssh -i id_rsa john@10.10.6.100
 ~~~
+# Net use
+~~~
+# change password
+net use <username> <new password>
+net use <username> <new password> /domain
+
+# connect user
+net use \<fqdn | ip address>\ipc$ /user:<username>
+net use \<fqdn | ip address>\ipc$ /user:<domain>\<username>
+
+# add user to local group
+net localgroup <groupname> <username> /add
+
+# add user to a domain
+net user <new username> /add /domain
+~~~
 # smbmap
 ~~~
 smbmap -H <targetip> -u 'anonymous'
