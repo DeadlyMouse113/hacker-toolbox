@@ -226,12 +226,13 @@ Some tools can be used in multiple areas or are multi-purpose.
 * NetExec - (https://github.com/Pennyw0rth/NetExec)
 * evil-winrm - (https://www.kali.org/tools/evil-winrm/)
 * bloodyAD - (https://www.kali.org/tools/bloodyad/)
+* targetedKerberoast - (https://github.com/ShutdownRepo/targetedKerberoast)
+* kerberoast tools - (https://www.kali.org/tools/kerberoast/)
 
 # OTHER HANDY TOOLS
 ## OSINT
 * Hunchly - https://hunch.ly/ (web capture tool - Google Chrome - paid)
 * GoWitness - https://github.com/sensepost/gowitness/wiki/Installation (web capture tool - Google Chrome)
-
 
 ## Proxy - VPN
 * FoxyProxy (https://getfoxyproxy.org/, Browser Extension)
@@ -240,11 +241,6 @@ Some tools can be used in multiple areas or are multi-purpose.
 * smbclient (https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
 * ssh (https://man7.org/linux/man-pages/man1/ssh.1.html)
 * telnet (https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)
-
-## Websites
-* https://pentestmonkey.net/
-* https://gtfobins.github.io/
-* https://book.hacktricks.xyz
 
 ### Shells
 * https://www.revshells.com/
@@ -264,5 +260,11 @@ Some tools can be used in multiple areas or are multi-purpose.
 # Repositories
 * RunasCs (https://github.com/antonioCoco/RunasCs)
 * nc (https://github.com/int0x33/nc.exe)
+
+* ## Websites
+* https://pentestmonkey.net/
+* https://gtfobins.github.io/
+* https://book.hacktricks.xyz
+* https://www.thehacker.recipes
 
 
