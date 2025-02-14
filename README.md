@@ -228,6 +228,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 * bloodyAD - (https://www.kali.org/tools/bloodyad/)
 * targetedKerberoast - (https://github.com/ShutdownRepo/targetedKerberoast)
 * kerberoast tools - (https://www.kali.org/tools/kerberoast/)
+* impacket-GetUserSPNs - (https://www.kali.org/tools/impacket-scripts/)
 
 # OTHER HANDY TOOLS
 ## OSINT
