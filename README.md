@@ -225,7 +225,7 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 # POST COMPROMISE
 ## Active Directory
-### Access
+### Remote Management
 * evil-winrm - (https://www.kali.org/tools/evil-winrm/)
 
 ### Active Directory: Post-Compromise Attacks
