@@ -197,8 +197,13 @@ Some tools can be used in multiple areas or are multi-purpose.
 * https://hashes.com/en/tools/hash_identifier
 
 ## Privilege Escalation
-* peas-ng (https://www.kali.org/tools/peass-ng/)
+* peass-ng (https://www.kali.org/tools/peass-ng/)
 * https://gtfobins.github.io/
+
+### Windows Privilege Escalation
+* bloodyAD - (https://www.kali.org/tools/bloodyad/)
+
+### Linux Privilege Escalation
 
 ## Snooping
 * pspy (https://github.com/DominicBreuker/pspy/blob/master/README.md)
@@ -220,12 +225,17 @@ Some tools can be used in multiple areas or are multi-purpose.
 
 # POST COMPROMISE
 ## Active Directory
+### Access
+* evil-winrm - (https://www.kali.org/tools/evil-winrm/)
+
 ### Active Directory: Post-Compromise Attacks
+#### Pass Attacks (Pass-the-Pass / Pass-the-Hash)
 * impacket-secretsdump - (https://www.kali.org/tools/impacket-scripts/)
 * crackmapexec - (https://www.kali.org/tools/crackmapexec/)
 * NetExec - (https://github.com/Pennyw0rth/NetExec)
-* evil-winrm - (https://www.kali.org/tools/evil-winrm/)
-* bloodyAD - (https://www.kali.org/tools/bloodyad/)
+* Mimikatz - (https://www.kali.org/tools/mimikatz/)
+
+#### Kerberoasting
 * targetedKerberoast - (https://github.com/ShutdownRepo/targetedKerberoast)
 * kerberoast tools - (https://www.kali.org/tools/kerberoast/)
 * impacket-GetUserSPNs - (https://www.kali.org/tools/impacket-scripts/)
