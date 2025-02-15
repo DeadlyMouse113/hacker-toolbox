@@ -68,7 +68,7 @@ ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u htt
 ssh -i <privatekeyfile> <username>@<ipaddress>
 ssh -i id_rsa john@10.10.6.100
 ~~~
-# Net use
+# Net use/user/group/share/..
 ~~~
 # change password
 net use <username> <new password>
@@ -80,6 +80,9 @@ net use \<fqdn | ip address>\ipc$ /user:<domain>\<username>
 
 # add user to local group
 net localgroup <groupname> <username> /add
+
+# add user to a domain group
+net group "Domain Admins" <username> /add /domain
 
 # add user to a domain
 net user <new username> /add /domain
