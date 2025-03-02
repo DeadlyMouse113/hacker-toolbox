@@ -36,14 +36,14 @@ finding oclumns with a useful data type
 
 ### Database version
 ~~~
-Oracle 	SELECT banner FROM v$version
-        SELECT version FROM v$instance
+Oracle 	        SELECT banner FROM v$version
+                SELECT version FROM v$instance
 
 Microsoft 	SELECT @@version
 
 PostgreSQL 	SELECT version()
 
-MySQL 	    SELECT @@version
+MySQL 	        SELECT @@version
 ~~~
 
 ~~~
@@ -55,10 +55,10 @@ MySQL 	    SELECT @@version
 Oracle 	    SELECT * FROM all_tables
             SELECT * FROM all_tab_columns WHERE table_name = 'TABLE-NAME-HERE'
 
-Microsoft 	SELECT * FROM information_schema.tables
+Microsoft   SELECT * FROM information_schema.tables
             SELECT * FROM information_schema.columns WHERE table_name = 'TABLE-NAME-HERE'
 
-PostgreSQL 	SELECT * FROM information_schema.tables
+PostgreSQL  SELECT * FROM information_schema.tables
             SELECT * FROM information_schema.columns WHERE table_name = 'TABLE-NAME-HERE'
 
 MySQL 	    SELECT * FROM information_schema.tables
