@@ -271,5 +271,6 @@
 * https://gtfobins.github.io/
 * https://book.hacktricks.xyz
 * https://www.thehacker.recipes
+* https://appsecexplained.gitbook.io/appsecexplained
 
 
