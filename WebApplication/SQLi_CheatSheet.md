@@ -1,5 +1,5 @@
-# Portswigger cheat sheet
-sql-injection cheat-sheet: https://portswigger.net/web-security/sql-injection/cheat-sheet
+# SQL injection (SQLi) - cheat sheet
+Portswigger sql-injection cheat-sheet: https://portswigger.net/web-security/sql-injection/cheat-sheet
 
 ## SQLi - UNION Attack
 When an application is vulnerable to SQL injection, and the results of the query are returned within the application's responses, you can use the UNION keyword to retrieve data from other tables within the database. This is commonly known as a SQL injection UNION attack.
