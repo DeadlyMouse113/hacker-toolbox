@@ -272,5 +272,6 @@
 * https://book.hacktricks.xyz
 * https://www.thehacker.recipes
 * https://appsecexplained.gitbook.io/appsecexplained
+* https://github.com/swisskyrepo/PayloadsAllTheThings
 
 
