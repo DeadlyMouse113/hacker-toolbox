@@ -4,7 +4,7 @@ sql-injection cheat-sheet: https://portswigger.net/web-security/sql-injection/ch
 ## SQLi - UNION Attack
 When an application is vulnerable to SQL injection, and the results of the query are returned within the application's responses, you can use the UNION keyword to retrieve data from other tables within the database. This is commonly known as a SQL injection UNION attack.
 
-Note: don't forget to use url encoding
+**Note:** don't forget to use url encoding
 
 ### Test for SQLi
 ~~~
@@ -82,7 +82,12 @@ example
 ' UNION SELECT username, password FROM users--
 ~~~
 
-concatenation example
+example - concatenation
 ~~~
 ' UNION SELECT username || '~' || password FROM users--
 ~~~
+
+## SQLi - BLIND Attack
+Blind SQL injection occurs when an application is vulnerable to SQL injection, but its HTTP responses do not contain the results of the relevant SQL query or the details of any database errors.
+
+**Note:** UNNION attacks are not effective with blind sql injection.
