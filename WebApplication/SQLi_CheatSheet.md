@@ -1,4 +1,4 @@
-# Portswigger
+# Portswigger cheat sheet
 sql-injection cheat-sheet: https://portswigger.net/web-security/sql-injection/cheat-sheet
 
 ## SQLi - UNION Attack
