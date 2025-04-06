@@ -235,8 +235,7 @@
 * impacket-GetUserSPNs - (https://www.kali.org/tools/impacket-scripts/)
 
 # Wireles Pentesting
-* aircrack-ng (assess WiFi network security) - (https://www.aircrack-ng.org/)
-** airodump-ng
+* aircrack-ng (assess WiFi network security) - (https://www.aircrack-ng.org/) - (airodump-ng)
 
 # OTHER HANDY TOOLS
 ## OSINT
