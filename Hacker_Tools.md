@@ -255,7 +255,7 @@
 
 ### Encoder - Decoder
 * https://www.urlencoder.org/
-* 
+
 ### Obfuscation
 * https://www.toptal.com/developers/javascript-minifier
 * https://jsconsole.com/
