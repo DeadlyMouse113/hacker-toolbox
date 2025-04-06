@@ -234,6 +234,10 @@
 * kerberoast tools - (https://www.kali.org/tools/kerberoast/)
 * impacket-GetUserSPNs - (https://www.kali.org/tools/impacket-scripts/)
 
+# Wireles Pentesting
+* aircrack-ng (assess WiFi network security) - (https://www.aircrack-ng.org/)
+** airodump-ng
+
 # OTHER HANDY TOOLS
 ## OSINT
 * Hunchly - https://hunch.ly/ (web capture tool - Google Chrome - paid)
