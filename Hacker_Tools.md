@@ -276,5 +276,6 @@
 * https://www.thehacker.recipes
 * https://appsecexplained.gitbook.io/appsecexplained
 * https://github.com/swisskyrepo/PayloadsAllTheThings
+* https://fuzzysecurity.com/
 
 
