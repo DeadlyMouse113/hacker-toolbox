@@ -258,12 +258,12 @@
 * GoWitness - (https://github.com/sensepost/gowitness/wiki/Installation) (web capture tool - Google Chrome)
 
 ## Proxy - VPN
-* FoxyProxy (https://getfoxyproxy.org/, Browser Extension)
+* FoxyProxy - (https://getfoxyproxy.org/, Browser Extension)
 
 ## SMB - SSH - Telnet
-* smbclient (https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
-* ssh (https://man7.org/linux/man-pages/man1/ssh.1.html)
-* telnet (https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)
+* smbclient - (https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
+* ssh - (https://man7.org/linux/man-pages/man1/ssh.1.html)
+* telnet - (https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)
 
 ### Shells
 * https://www.revshells.com/
@@ -277,12 +277,12 @@
 * https://beautifytools.com/javascript-obfuscator.php
 
 ## Search tools
-* strings (https://www.javatpoint.com/linux-strings-command)
-* grep (https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
+* strings - (https://www.javatpoint.com/linux-strings-command)
+* grep - (https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
 
 # Repositories
-* RunasCs (https://github.com/antonioCoco/RunasCs)
-* nc (https://github.com/int0x33/nc.exe)
+* RunasCs - (https://github.com/antonioCoco/RunasCs)
+* nc - (https://github.com/int0x33/nc.exe)
 
 * ## Websites
 * https://pentestmonkey.net/
