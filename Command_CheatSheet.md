@@ -135,3 +135,25 @@ mkdir newdir	| Create a new directory on the server
 rmdir olddir	| Remove a directory on the server
 bye	| Close the connection and exit
 ~~~
+
+# Windows System-User-Network Enumeration
+~~~
+# hostname
+hostname
+
+# user id
+getuid
+
+# system info
+systeminfo
+systeminfo | findstr /B /C:"OS Name" /C:"OS version" /C:"System Type"
+
+# checking updates
+wmic qfe
+wmic gfe Caption,Description,HotFixID,InstalledOn
+
+# Disk Info
+wmic logicaldisk
+wmic logicaldisk get caption,description,providername
+
+~~~
