@@ -1,4 +1,4 @@
-![afbeelding](https://github.com/user-attachments/assets/99fe273c-fc85-430b-bde0-2ba13400c007)# NMAP
+# NMAP
 ~~~
 nmap -T4 -p- -A <target ip>
 ~~~
@@ -141,7 +141,7 @@ rmdir olddir	| Remove a directory on the server
 bye	| Close the connection and exit
 ~~~
 
-# Windows System-User-Network Enumeration
+# Windows (System-User-Network-Services) Enumeration
 ~~~
 # got to shell
 shell
@@ -182,10 +182,11 @@ netstat -ano
 # AV Enumeration
 sc query windefend
 sc queryex type= service
-~~~
 
-# Windows Password Harvesting
-~~~
+# Firewall
+netsh advfirewall firewall dump
+netsh firewall show state
+
 # find password in plain text files
 findstr /si password *.txt *.ini *.config
 ~~~
