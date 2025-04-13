@@ -151,11 +151,15 @@ hostname
 
 # user id - privileges - groups
 getuid
+
 whoami
 whoami /priv
 whoami /groups
+
 net user
 net user <username> # information about user
+net localgroups
+net localgroup <groupW # example: net localgroup administrators
 
 # system info
 systeminfo
