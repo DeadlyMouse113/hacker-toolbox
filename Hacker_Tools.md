@@ -142,11 +142,11 @@
 
 # ENUMERATION & SCANNING
 
-## Network scanning
+## Network Scanning
 * netdiscover (https://www.kali.org/tools/netdiscover/)
 * nmap (https://www.kali.org/tools/nmap/)
 
-## Samba/SMB enumeration
+## Samba/SMB Enumeration
 * enum4linux - https://www.kali.org/tools/enum4linux/
 * smbmap - https://www.kali.org/tools/smbmap/
 
@@ -156,7 +156,7 @@
 * Gobuster (https://www.kali.org/tools/gobuster/)
 * ffuf (https://www.kali.org/tools/ffuf/)
 
-## Windows
+## Windows Enumeration
 * WinPEAS (https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
 * Windows PrivEsc Checklist (https://book.hacktricks.wiki/en/windows-hardening/checklist-windows-privilege-escalation.html)
 * Sherlock (https://github.com/rasta-mouse/Sherlock)
