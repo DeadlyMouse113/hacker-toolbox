@@ -156,12 +156,27 @@
 * Gobuster (https://www.kali.org/tools/gobuster/)
 * ffuf (https://www.kali.org/tools/ffuf/)
 
+## Windows
+* WinPEAS (https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
+* Windows PrivEsc Checklist (https://book.hacktricks.wiki/en/windows-hardening/checklist-windows-privilege-escalation.html)
+* Sherlock (https://github.com/rasta-mouse/Sherlock)
+* Watson (https://github.com/rasta-mouse/Watson)
+* PowerUp (https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
+* JAWS (https://github.com/411Hall/JAWS)
+* Windows Exploit Suggester (https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
+* Metasploit (Local Exploit Suggester (https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/)
+* Seatbelt (https://github.com/GhostPack/Seatbelt)
+* SharpUp (https://github.com/GhostPack/SharpUp)
+
+
 ## Active Directory
-### Active Directory: Domain Enumeration (after account compromised)
+### Active Directory: Domain Enumeration (after gaining foothold)
 * Bloodhound (https://www.kali.org/tools/bloodhound/)
 * ldapdomaindump (https://www.kali.org/tools/python-ldapdomaindump/)
 * Plumhound (https://github.com/PlumHound/PlumHound)
 * PingCastle (https://www.pingcastle.com/)
+
+## Linux
 
 # VULNERABILITY SCANNING
 * Nessus (https://www.tenable.com/products/nessus)
@@ -272,10 +287,12 @@
 * ## Websites
 * https://pentestmonkey.net/
 * https://gtfobins.github.io/
-* https://book.hacktricks.xyz
+* https://book.hacktricks.wiki
 * https://www.thehacker.recipes
 * https://appsecexplained.gitbook.io/appsecexplained
 * https://github.com/swisskyrepo/PayloadsAllTheThings
 * https://fuzzysecurity.com/
+* https://sushant747.gitbooks.io/
+* https://www.absolomb.com
 
 
