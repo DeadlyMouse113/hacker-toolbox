@@ -74,6 +74,9 @@ ssh -i id_rsa john@10.10.6.100
 net use <username> <new password>
 net use <username> <new password> /domain
 
+# Check all users that we can find
+net user
+
 # connect user
 net use \<fqdn | ip address>\ipc$ /user:<username>
 net use \<fqdn | ip address>\ipc$ /user:<domain>\<username>
@@ -86,6 +89,8 @@ net group "Domain Admins" <username> /add /domain
 
 # add user to a domain
 net user <new username> /add /domain
+
+
 ~~~
 # smbmap
 ~~~
@@ -138,11 +143,19 @@ bye	| Close the connection and exit
 
 # Windows System-User-Network Enumeration
 ~~~
+# got to shell
+shell
+
 # hostname
 hostname
 
-# user id
+# user id - privileges - groups
 getuid
+whoami
+whoami /priv
+whoami /groups
+net user
+net user <username> # information about user
 
 # system info
 systeminfo
