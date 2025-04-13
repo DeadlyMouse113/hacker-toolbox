@@ -1,4 +1,4 @@
-# NMAP
+![afbeelding](https://github.com/user-attachments/assets/99fe273c-fc85-430b-bde0-2ba13400c007)# NMAP
 ~~~
 nmap -T4 -p- -A <target ip>
 ~~~
@@ -173,4 +173,19 @@ wmic gfe Caption,Description,HotFixID,InstalledOn
 wmic logicaldisk
 wmic logicaldisk get caption,description,providername
 
+# Network
+ipconfig /all
+arp -a
+route print
+netstat -ano
+
+# AV Enumeration
+sc query windefend
+sc queryex type= service
+~~~
+
+# Windows Password Harvesting
+~~~
+# find password in plain text files
+findstr /si password *.txt *.ini *.config
 ~~~
