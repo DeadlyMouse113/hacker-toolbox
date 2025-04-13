@@ -3,13 +3,13 @@
 * Google Fu (google is your best friend to find answers)
 
 ## Frameworks OSINT
-* OSINT Framework - https://osintframework.com/ (you will find even more tools in here)
+* OSINT Framework - (https://osintframework.com/ )(you will find even more tools in here)
 
-* Maltego - https://www.kali.org/tools/maltego/
-* FinalRecon - https://www.kali.org/tools/finalrecon/ (https://github.com/thewhiteh4t/FinalRecon)
-* recon-ng - https://www.kali.org/tools/recon-ng/ (https://github.com/lanmaster53/recon-ng)
-* sn0int - https://www.kali.org/tools/sn0int/ (https://github.com/kpcyrd/sn0int)
-* Spiderfoot - https://www.kali.org/tools/spiderfoot/ (https://github.com/smicallef/spiderfoot)
+* Maltego - (https://www.kali.org/tools/maltego/)
+* FinalRecon - (https://www.kali.org/tools/finalrecon/) (https://github.com/thewhiteh4t/FinalRecon)
+* recon-ng - (https://www.kali.org/tools/recon-ng/) (https://github.com/lanmaster53/recon-ng)
+* sn0int - (https://www.kali.org/tools/sn0int/) (https://github.com/kpcyrd/sn0int)
+* Spiderfoot - (https://www.kali.org/tools/spiderfoot/) (https://github.com/smicallef/spiderfoot)
 
 ## Image OSINT
 * https://jimpl.com/ (EXIF Data)
@@ -18,74 +18,74 @@
 * https://tineye.com
 * https://pimeyes.com (paid)
   
-* exiftool - https://www.kali.org/tools/libimage-exiftool-perl/#exiftool
+* exiftool - (https://www.kali.org/tools/libimage-exiftool-perl/#exiftool)
 
 ## Email OSINT
 ### Find Emails
-* Hunter - https://Hunter.io(https://Hunter.io)
-* Phonebook - https://Phonebook.cz
-* VoilaNorbert - https://Voilanorbert.com
+* Hunter - (https://Hunter.io)
+* Phonebook - (https://Phonebook.cz)
+* VoilaNorbert - (https://Voilanorbert.com)
 * Clearbit Connect (chrome extension)
   
-* TheHarvester - https://www.kali.org/tools/theharvester
+* TheHarvester - (https://www.kali.org/tools/theharvester)
 
 ### Verify Emails
-* Email Hippo - https://tools.emailhippo.com/
-* Email Checker - https://Email-checker.net/validate
+* Email Hippo - (https://tools.emailhippo.com/)
+* Email Checker - (https://Email-checker.net/validate)
 
 ## Password OSINT (Hunting Breached Credentials)
-* Dehashed - https://dehashed.com/
-* WeLeakInfo - https://weleakinfo.to/v2/
-* LeakCheck - https://leakcheck.io/
-* SnusBase - https://snusbase.com/
-* Scylla.sh - https://scylla.sh/ (goes down now and then)
-* HaveIBeenPwned - https://haveibeenpwned.com/
+* Dehashed - (https://dehashed.com/)
+* WeLeakInfo - (https://weleakinfo.to/v2/)
+* LeakCheck - (https://leakcheck.io/)
+* SnusBase - (https://snusbase.com/)
+* Scylla.sh - (https://scylla.sh/ (goes down now and then)
+* HaveIBeenPwned - (https://haveibeenpwned.com/)
 
-* DeHashed-API-Tool - https://github.com/hmaverickadams/DeHashed-API-Tool (account required)
-* Breach-Parse - https://github.com/hmaverickadams/breach-parse
+* DeHashed-API-Tool - (https://github.com/hmaverickadams/DeHashed-API-Tool (account required))
+* Breach-Parse - (https://github.com/hmaverickadams/breach-parse)
 
 ## Username OSINT
-* NameChk - https://namechk.com/
-* WhatsMyName - https://whatsmyname.app/
-* NameCheckup - https://namecheckup.com/
+* NameChk - (https://namechk.com/)
+* WhatsMyName - (https://whatsmyname.app/)
+* NameCheckup - (https://namecheckup.com/)
 
-* sherlock - https://www.kali.org/tools/sherlock/
+* sherlock - (https://www.kali.org/tools/sherlock/)
 
 ## People OSINT (people, phones, addresses, birthday...)
-* WhitePages - https://www.whitepages.com/
-* TruePeopleSearch - https://www.truepeoplesearch.com/
-* FastPeopleSearch - https://www.fastpeoplesearch.com/
-* FastBackgroundCheck - https://www.fastbackgroundcheck.com/
-* WebMii - https://webmii.com/
-* PeekYou - https://peekyou.com/
-* 411 - https://www.411.com/
-* Spokeo - https://www.spokeo.com/
-* That'sThem - https://thatsthem.com/
+* WhitePages - (https://www.whitepages.com/)
+* TruePeopleSearch - (https://www.truepeoplesearch.com/)
+* FastPeopleSearch - (https://www.fastpeoplesearch.com/)
+* FastBackgroundCheck - (https://www.fastbackgroundcheck.com/)
+* WebMii - (https://webmii.com/)
+* PeekYou - (https://peekyou.com/)
+* 411 - (https://www.411.com/)
+* Spokeo - (https://www.spokeo.com/)
+* That'sThem - (https://thatsthem.com/)
 
 ### Voter Records (U.S.)
-* Voter Records - https://www.voterrecords.com/
+* Voter Records - (https://www.voterrecords.com/)
 
 ### Phone Numbers
-* TrueCaller - https://www.truecaller.com/
-* CallerID Test - https://calleridtest.com/
-* Infobel - https://infobel.com/
+* TrueCaller - (https://www.truecaller.com/)
+* CallerID Test - (https://calleridtest.com/)
+* Infobel - (https://infobel.com/)
 
-* phoneinfoga - https://github.com/sundowndev/phoneinfoga (https://sundowndev.github.io/phoneinfoga/)
+* phoneinfoga - https://github.com/sundowndev/phoneinfoga) (https://sundowndev.github.io/phoneinfoga/)
 
 ## Social Media OSINT
 ### Twitter
-* Twitter Advanced Search - https://twitter.com/search-advanced/
+* Twitter Advanced Search - (https://twitter.com/search-advanced/)
   
-* OSINT Tool Collection - https://github.com/rmdir-rp/OSINT-twitter-tools
+* OSINT Tool Collection - (https://github.com/rmdir-rp/OSINT-twitter-tools)
   
 ### Facebook
-* Sowdust Github - https://sowsearch.info 
-* IntelligenceX Facebook Search - https://intelx.io/tools?tab=facebook
-* Social Searcher - https://www.social-searcher.com
-
+* Sowdust Github - (https://sowsearch.info )
+* IntelligenceX Facebook Search - (https://intelx.io/tools?tab=facebook)
+* Social Searcher - (https://www.social-searcher.com)
+  
 ### Instagram
-* ImgInn - https://imginn.com
-* Osingram - https://github.com/Datalux/Osintgram
+* ImgInn - (https://imginn.com)
+* Osingram - (https://github.com/Datalux/Osintgram)
 
 ### Snapchat
 * Snapchat Maps - https://map.snapchat.com
@@ -96,91 +96,91 @@
 * TikTok
 
 ## Website OSINT
-* SpyOnWeb - https://spyonweb.com/
-* Virus Total - https://www.virustotal.com/
-* Visual Ping - https://visualping.io/
-* Back Link Watch - http://backlinkwatch.com/index.php
-* urlscan.io - https://urlscan.io/
-* Shodan - https://shodan.io
-* Wayback Machine - https://web.archive.org/
+* SpyOnWeb - (https://spyonweb.com/)
+* Virus Total - (https://www.virustotal.com/)
+* Visual Ping - (https://visualping.io/)
+* Back Link Watch - (http://backlinkwatch.com/index.php)
+* urlscan.io - (https://urlscan.io/)
+* Shodan - (https://shodan.io)
+* Wayback Machine -( https://web.archive.org/)
 
 
 ### Domain names & Subdomains
-* Domain Dossier - https://centralops.net/co/
-* DNSlytics - https://dnslytics.com/reverse-ip/
-* View DNS - https://viewdns.info/
-* DNSdumpster - https://dnsdumpster.com/
-* Web Check - https://web-check.as93.net/
-* Certificate Search - https://crt.sh
-* whois - https://who.is
-* nslookup -  https://www.nslookup.io/
-* Icann - https://lookup.icann.org
+* Domain Dossier - (https://centralops.net/co/)
+* DNSlytics - (https://dnslytics.com/reverse-ip/)
+* View DNS - (https://viewdns.info/)
+* DNSdumpster - (https://dnsdumpster.com/)
+* Web Check - (https://web-check.as93.net/)
+* Certificate Search - (https://crt.sh)
+* whois - (https://who.is)
+* nslookup -  (https://www.nslookup.io/)
+* Icann - https://lookup.icann.org)
   
-* fierce - https://www.kali.org/tools/fierce/
-* Sublist3r - https://www.kali.org/tools/sublist3r
-* dnsrecon - https://www.kali.org/tools/dnsrecon
-* dig - https://www.kali.org/tools/bind9/#dig
-* subfinder - https://github.com/projectdiscovery/subfinder
-* Assetfinder - https://github.com/tomnomnom/assetfinder
-* httprobe - https://github.com/tomnomnom/httprobe
+* fierce - (https://www.kali.org/tools/fierce/)
+* Sublist3r - (https://www.kali.org/tools/sublist3r)
+* dnsrecon - (https://www.kali.org/tools/dnsrecon)
+* dig - (https://www.kali.org/tools/bind9/#dig)
+* subfinder - (https://github.com/projectdiscovery/subfinder)
+* Assetfinder - (https://github.com/tomnomnom/assetfinder)
+* httprobe - (https://github.com/tomnomnom/httprobe)
 
 
-* OWASP Amass - https://owasp.org/www-project-amass (https://github.com/owasp-amass/amass)
+* OWASP Amass - (https://owasp.org/www-project-amass) (https://github.com/owasp-amass/amass)
 
 ### What technology is used?
-* BuiltWith - https://Builtwith.com
+* BuiltWith - (https://Builtwith.com)
 * Wappalyzer (firefox extension)
-* WhatWeb - https://www.kali.org/tools/whatweb
+* WhatWeb - (https://www.kali.org/tools/whatweb)
 
 ## Business OSINT
 * Check LinkedIn
-* Open Corporates - https://opencorporates.com/
-* AI HIT - https://www.aihitdata.com/
+* Open Corporates - (https://opencorporates.com/)
+* AI HIT - (https://www.aihitdata.com/)
 
 ## Wireless OSINT
-* WiGLE - https://wigle.net/
+* WiGLE - (https://wigle.net/)
 
 # ENUMERATION & SCANNING
 
 ## Network Scanning
-* netdiscover (https://www.kali.org/tools/netdiscover/)
-* nmap (https://www.kali.org/tools/nmap/)
+* netdiscover - (https://www.kali.org/tools/netdiscover/)
+* nmap - (https://www.kali.org/tools/nmap/)
 
 ## Samba/SMB Enumeration
-* enum4linux - https://www.kali.org/tools/enum4linux/
-* smbmap - https://www.kali.org/tools/smbmap/
+* enum4linux - (https://www.kali.org/tools/enum4linux/)
+* smbmap - (https://www.kali.org/tools/smbmap/)
 
 ## Directory Busting
-* Dirbuster (https://www-kali-org.translate.goog/tools/dirbuster/)
-* Dirb (https://www.kali.org/tools/dirb/)
-* Gobuster (https://www.kali.org/tools/gobuster/)
-* ffuf (https://www.kali.org/tools/ffuf/)
+* Dirbuster - (https://www-kali-org.translate.goog/tools/dirbuster/)
+* Dirb - (https://www.kali.org/tools/dirb/)
+* Gobuster - (https://www.kali.org/tools/gobuster/)
+* ffuf - (https://www.kali.org/tools/ffuf/)
 
 ## Windows Enumeration
-* WinPEAS (https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
-* Windows PrivEsc Checklist (https://book.hacktricks.wiki/en/windows-hardening/checklist-windows-privilege-escalation.html)
-* Sherlock (https://github.com/rasta-mouse/Sherlock)
-* Watson (https://github.com/rasta-mouse/Watson)
-* PowerUp (https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
-* JAWS (https://github.com/411Hall/JAWS)
-* Windows Exploit Suggester (https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
-* Metasploit (Local Exploit Suggester (https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/)
-* Seatbelt (https://github.com/GhostPack/Seatbelt)
-* SharpUp (https://github.com/GhostPack/SharpUp)
+* WinPEAS - (https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
+* Windows PrivEsc Checklist - (https://book.hacktricks.wiki/en/windows-hardening/checklist-windows-privilege-escalation.html)
+* Sherlock - (https://github.com/rasta-mouse/Sherlock)
+* Watson - (https://github.com/rasta-mouse/Watson)
+* PowerUp - (https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
+* JAWS - (https://github.com/411Hall/JAWS)
+* Windows Exploit Suggester - (https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
+* Metasploit - (Local Exploit Suggester (https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/)
+* Seatbelt - (https://github.com/GhostPack/Seatbelt)
+* SharpUp - (https://github.com/GhostPack/SharpUp)
 
 
 ## Active Directory
 ### Active Directory: Domain Enumeration (after gaining foothold)
-* Bloodhound (https://www.kali.org/tools/bloodhound/)
-* ldapdomaindump (https://www.kali.org/tools/python-ldapdomaindump/)
-* Plumhound (https://github.com/PlumHound/PlumHound)
-* PingCastle (https://www.pingcastle.com/)
+* Bloodhound - (https://www.kali.org/tools/bloodhound/)
+* ldapdomaindump - (https://www.kali.org/tools/python-ldapdomaindump/)
+* Plumhound - (https://github.com/PlumHound/PlumHound)
+* PingCastle - (https://www.pingcastle.com/)
 
 ## Linux
 
 # VULNERABILITY SCANNING
-* Nessus (https://www.tenable.com/products/nessus)
-* Nuclei (https://github.com/projectdiscovery/nuclei)
+* Nessus - (https://www.tenable.com/products/nessus)
+* Nuclei - (https://github.com/projectdiscovery/nuclei)
 
 ## Web Application analysis
 * Nikto (https://www.kali.org/tools/nikto)
@@ -254,8 +254,8 @@
 
 # OTHER HANDY TOOLS
 ## OSINT
-* Hunchly - https://hunch.ly/ (web capture tool - Google Chrome - paid)
-* GoWitness - https://github.com/sensepost/gowitness/wiki/Installation (web capture tool - Google Chrome)
+* Hunchly - (https://hunch.ly/) (web capture tool - Google Chrome - paid)
+* GoWitness - (https://github.com/sensepost/gowitness/wiki/Installation) (web capture tool - Google Chrome)
 
 ## Proxy - VPN
 * FoxyProxy (https://getfoxyproxy.org/, Browser Extension)
