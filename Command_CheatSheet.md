@@ -141,7 +141,7 @@ rmdir olddir	| Remove a directory on the server
 bye	| Close the connection and exit
 ~~~
 
-# Windows (System-User-Network-Services) Enumeration
+# Windows (System-User-Network-Services) Manual Enumeration
 ~~~
 # got to shell
 shell
@@ -186,6 +186,7 @@ sc queryex type= service
 # Firewall
 netsh advfirewall firewall dump
 netsh firewall show state
+netsh firewall show config
 
 # find password in plain text files
 findstr /si password *.txt *.ini *.config
