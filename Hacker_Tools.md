@@ -4,7 +4,6 @@
 
 ## Frameworks OSINT
 * OSINT Framework - (https://osintframework.com/ )(you will find even more tools in here)
-
 * Maltego - (https://www.kali.org/tools/maltego/)
 * FinalRecon - (https://www.kali.org/tools/finalrecon/) (https://github.com/thewhiteh4t/FinalRecon)
 * recon-ng - (https://www.kali.org/tools/recon-ng/) (https://github.com/lanmaster53/recon-ng)
@@ -17,7 +16,6 @@
 * https://yandex.com
 * https://tineye.com
 * https://pimeyes.com (paid)
-  
 * exiftool - (https://www.kali.org/tools/libimage-exiftool-perl/#exiftool)
 
 ## Email OSINT
@@ -26,7 +24,6 @@
 * Phonebook - (https://Phonebook.cz)
 * VoilaNorbert - (https://Voilanorbert.com)
 * Clearbit Connect (chrome extension)
-  
 * TheHarvester - (https://www.kali.org/tools/theharvester)
 
 ### Verify Emails
@@ -40,7 +37,6 @@
 * SnusBase - (https://snusbase.com/)
 * Scylla.sh - (https://scylla.sh/ (goes down now and then)
 * HaveIBeenPwned - (https://haveibeenpwned.com/)
-
 * DeHashed-API-Tool - (https://github.com/hmaverickadams/DeHashed-API-Tool (account required))
 * Breach-Parse - (https://github.com/hmaverickadams/breach-parse)
 
@@ -48,7 +44,6 @@
 * NameChk - (https://namechk.com/)
 * WhatsMyName - (https://whatsmyname.app/)
 * NameCheckup - (https://namecheckup.com/)
-
 * sherlock - (https://www.kali.org/tools/sherlock/)
 
 ## People OSINT (people, phones, addresses, birthday...)
@@ -69,13 +64,11 @@
 * TrueCaller - (https://www.truecaller.com/)
 * CallerID Test - (https://calleridtest.com/)
 * Infobel - (https://infobel.com/)
-
 * phoneinfoga - https://github.com/sundowndev/phoneinfoga) (https://sundowndev.github.io/phoneinfoga/)
 
 ## Social Media OSINT
 ### Twitter
 * Twitter Advanced Search - (https://twitter.com/search-advanced/)
-  
 * OSINT Tool Collection - (https://github.com/rmdir-rp/OSINT-twitter-tools)
   
 ### Facebook
@@ -114,7 +107,6 @@
 * whois - (https://who.is)
 * nslookup -  (https://www.nslookup.io/)
 * Icann - https://lookup.icann.org)
----
 * fierce - (https://www.kali.org/tools/fierce/)
 * Sublist3r - (https://www.kali.org/tools/sublist3r)
 * dnsrecon - (https://www.kali.org/tools/dnsrecon)
@@ -122,7 +114,6 @@
 * subfinder - (https://github.com/projectdiscovery/subfinder)
 * Assetfinder - (https://github.com/tomnomnom/assetfinder)
 * httprobe - (https://github.com/tomnomnom/httprobe)
----
 * OWASP Amass - (https://owasp.org/www-project-amass) (https://github.com/owasp-amass/amass)
 
 ### What technology is used?
@@ -295,5 +286,3 @@
 * https://fuzzysecurity.com/
 * https://sushant747.gitbooks.io/
 * https://www.absolomb.com
-
-
