@@ -141,6 +141,7 @@
 * WiGLE - (https://wigle.net/)
 
 # ENUMERATION & SCANNING
+* peass-ng - (https://www.kali.org/tools/peass-ng/)
 
 ## Network Scanning
 * netdiscover - (https://www.kali.org/tools/netdiscover/)
@@ -168,7 +169,6 @@
 * Seatbelt - (https://github.com/GhostPack/Seatbelt)
 * SharpUp - (https://github.com/GhostPack/SharpUp)
 
-
 ## Active Directory
 ### Active Directory: Domain Enumeration (after gaining foothold)
 * Bloodhound - (https://www.kali.org/tools/bloodhound/)
@@ -176,43 +176,35 @@
 * Plumhound - (https://github.com/PlumHound/PlumHound)
 * PingCastle - (https://www.pingcastle.com/)
 
-## Linux
+## Linux Enumeration
+* LinPeas - (https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS)
 
 # VULNERABILITY SCANNING
 * Nessus - (https://www.tenable.com/products/nessus)
 * Nuclei - (https://github.com/projectdiscovery/nuclei)
 
 ## Web Application analysis
-* Nikto (https://www.kali.org/tools/nikto)
-* Burpsuite (https://portswigger.net)
+* Nikto - (https://www.kali.org/tools/nikto)
+* Burpsuite - (https://portswigger.net)
 
 ## Vulnerability Databases
 * https://nvd.nist.gov/vuln/full-listing/
 * https://www.exploit-db.com/
 * https://www.cvedetails.com/
-* Searchsploit (https://www.kali.org/tools/exploitdb/)
+* Searchsploit - (https://www.kali.org/tools/exploitdb/)
 
 # EXPLOITATION
-* Metasploit (https://www.kali.org/tools/metasploit-framework/)  	*This framework is used for a lot more...*
+* Metasploit - (https://www.kali.org/tools/metasploit-framework/)  	*This framework is used for a lot more...*
 
 ## Password Attacks
-* Hydra (https://www.kali.org/tools/hydra/)
-* Hashcat (https://www.kali.org/tools/hashcat/)
-* John The ripper (https://www.kali.org/tools/john/)
-* Medusa (https://www.kali.org/tools/medusa/)
-* hash-identifier (https://www.kali.org/tools/hash-identifier/)
+* Hydra - (https://www.kali.org/tools/hydra/)
+* Hashcat - (https://www.kali.org/tools/hashcat/)
+* John The - ripper (https://www.kali.org/tools/john/)
+* Medusa -(https://www.kali.org/tools/medusa/)
+* hash-identifier - (https://www.kali.org/tools/hash-identifier/)
 * https://crackstation.net/
-* fcrackzip (https://www.kali.org/tools/fcrackzip/)
+* fcrackzip - (https://www.kali.org/tools/fcrackzip/)
 * https://hashes.com/en/tools/hash_identifier
-
-## Privilege Escalation
-* peass-ng (https://www.kali.org/tools/peass-ng/)
-* https://gtfobins.github.io/
-
-### Windows Privilege Escalation
-* bloodyAD - (https://www.kali.org/tools/bloodyad/)
-
-### Linux Privilege Escalation
 
 ## Snooping
 * pspy (https://github.com/DominicBreuker/pspy/blob/master/README.md)
@@ -227,6 +219,17 @@
 * impacket-wmiexec (https://www.kali.org/tools/impacket-scripts/)
 * impacket-smbexec (https://www.kali.org/tools/impacket-scripts/)
 * impacket-psexec (https://www.kali.org/tools/impacket-scripts/)
+
+## Privilege Escalation
+
+### Windows Privilege Escalation
+* bloodyAD - (https://www.kali.org/tools/bloodyad/)
+
+#### Windows Kernel Exploits
+* Windows Kernel Exploits - (https://github.com/SecWiki/windows-kernel-exploits)
+
+### Linux Privilege Escalation
+* https://gtfobins.github.io/
 
 ## Exploit Development
 ### Buffer OverFlows - Spiking
