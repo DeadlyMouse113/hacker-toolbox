@@ -104,7 +104,6 @@
 * Shodan - (https://shodan.io)
 * Wayback Machine -( https://web.archive.org/)
 
-
 ### Domain names & Subdomains
 * Domain Dossier - (https://centralops.net/co/)
 * DNSlytics - (https://dnslytics.com/reverse-ip/)
@@ -115,7 +114,7 @@
 * whois - (https://who.is)
 * nslookup -  (https://www.nslookup.io/)
 * Icann - https://lookup.icann.org)
-  
+---
 * fierce - (https://www.kali.org/tools/fierce/)
 * Sublist3r - (https://www.kali.org/tools/sublist3r)
 * dnsrecon - (https://www.kali.org/tools/dnsrecon)
@@ -123,8 +122,7 @@
 * subfinder - (https://github.com/projectdiscovery/subfinder)
 * Assetfinder - (https://github.com/tomnomnom/assetfinder)
 * httprobe - (https://github.com/tomnomnom/httprobe)
-
-
+---
 * OWASP Amass - (https://owasp.org/www-project-amass) (https://github.com/owasp-amass/amass)
 
 ### What technology is used?
