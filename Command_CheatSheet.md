@@ -10,7 +10,7 @@ python3 -m http.server <port>
 # Download Files (from you web server)
 ~~~
 **Windows**
-certutil.exe -urlcache -f http(s)://<link to file> <name file>
+certutil.exe -urlcache -f http(s)://<link to file>:<port> <name file>
 
 **Linux**
 wget http(s)://<link to file>
