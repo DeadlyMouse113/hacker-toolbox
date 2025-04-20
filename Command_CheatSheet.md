@@ -159,8 +159,8 @@ whoami /groups
 
 net user
 net user <username> # information about user
-net localgroups
-net localgroup <groupW # example: net localgroup administrators
+net localgroup
+net localgroup <group> # example: net localgroup administrators
 
 # system info
 systeminfo
