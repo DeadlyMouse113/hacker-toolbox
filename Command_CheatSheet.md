@@ -1,6 +1,7 @@
 # NMAP
 ~~~
 nmap -T4 -p- -A <target ip>
+nmap -T4 -p- -sV <target ip>
 ~~~
 # Python Webserver
 ~~~
