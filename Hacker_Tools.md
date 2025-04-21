@@ -141,7 +141,7 @@
 * smbmap - (https://www.kali.org/tools/smbmap/)
 
 ## Directory Busting
-* Dirbuster - (https://www-kali-org.translate.goog/tools/dirbuster/)
+* Dirbuster - (https://www.kali.org/tools/dirbuster/)
 * Dirb - (https://www.kali.org/tools/dirb/)
 * Gobuster - (https://www.kali.org/tools/gobuster/)
 * ffuf - (https://www.kali.org/tools/ffuf/)
