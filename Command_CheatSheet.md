@@ -206,7 +206,7 @@ findstr /si password *.txt *.ini *.config
 ~~~
 where /R <path c:\Windows> <search bash.exe>
 type <file>
-calcs
+cacls (https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cacls)
 ~~~
 
 
