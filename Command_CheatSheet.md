@@ -56,11 +56,11 @@ perl -e 'exec "/bin/sh";'
 ## From within VI
 :!bash
 ~~~
-# System Info
+# Linux System Info
 ~~~
 uname -a
 ~~~
-# Privilege Escalation Check
+# Linux Privilege Escalation Check
 ~~~
 sudo -l
 ~~~
@@ -132,7 +132,6 @@ put
 more
 get <remote-file> <local-file name>
 exit
-where /R <path c:\Windows> <search bash.exe>
 ~~~
 # FTP
 ~~~
@@ -201,6 +200,13 @@ netsh firewall show config
 
 # find password in plain text files
 findstr /si password *.txt *.ini *.config
+~~~
+
+# General Windows
+~~~
+where /R <path c:\Windows> <search bash.exe>
+type <file>
+calcs
 ~~~
 
 
