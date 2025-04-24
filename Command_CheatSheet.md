@@ -132,6 +132,7 @@ put
 more
 get <remote-file> <local-file name>
 exit
+where /R <path c:\Windows> <search bash.exe>
 ~~~
 # FTP
 ~~~
