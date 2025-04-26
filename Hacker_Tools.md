@@ -139,6 +139,7 @@
 ## Samba/SMB Enumeration
 * enum4linux - (https://www.kali.org/tools/enum4linux/)
 * smbmap - (https://www.kali.org/tools/smbmap/)
+* nmap --script=smb...
 
 ## Directory Busting
 * Dirbuster - (https://www.kali.org/tools/dirbuster/)
