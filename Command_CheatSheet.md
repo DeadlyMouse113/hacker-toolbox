@@ -4,7 +4,7 @@ nmap -T4 -p- -A <target ip>
 nmap -T4 -p- -sV <target ip>
 
 ## SBM enumeration vulnerabilities
-nmap -p 445 --script smb-vuln* <address>
+nmap -p 139,445 --script smb-vuln* <address>
 ~~~
 # Python Webserver
 ~~~
