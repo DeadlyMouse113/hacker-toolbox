@@ -186,7 +186,7 @@
 # EXPLOITATION
 * Metasploit - (https://www.kali.org/tools/metasploit-framework/)  	*This framework is used for a lot more...*
 
-## Password Attacks
+## Password Attacks / Decryption
 * Hydra - (https://www.kali.org/tools/hydra/)
 * Hashcat - (https://www.kali.org/tools/hashcat/)
 * John The - ripper (https://www.kali.org/tools/john/)
@@ -195,6 +195,7 @@
 * https://crackstation.net/
 * fcrackzip - (https://www.kali.org/tools/fcrackzip/)
 * https://hashes.com/en/tools/hash_identifier
+* gpp-decrypt (https://www.kali.org/tools/gpp-decrypt/)
 
 ## Snooping
 * pspy (https://github.com/DominicBreuker/pspy/blob/master/README.md)
