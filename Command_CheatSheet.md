@@ -122,6 +122,8 @@ smbclient -L \\\\<target ip>\\
 smbclient -L \\<address / domain> -I <address> -N
 ex. smblcient -L \\example.com -I 10.10.10.100 -N
 
+smbclient -U '%' -L \\<address>
+
 ## Connect to SMB share
 smbclient \\\\<target ip>\\<share>
 smbclient \\\\<target ip>\\<share> -U <user>
