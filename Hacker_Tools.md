@@ -146,6 +146,7 @@
 * Dirb - (https://www.kali.org/tools/dirb/)
 * Gobuster - (https://www.kali.org/tools/gobuster/)
 * ffuf - (https://www.kali.org/tools/ffuf/)
+* feroxbuster - (https://www.kali.org/tools/feroxbuster/)
 
 ## Windows Enumeration
 * WinPEAS - (https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
