@@ -218,7 +218,7 @@ type <file>
 cacls (https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cacls)
 cacls <file> /E /P everyone:f
 runas
-cmdkey /list
+cmdkey [{/add:<targetname>|/generic:<targetname>}] {/smartcard | /user:<username> [/pass:<password>]} [/delete{:<targetname> | /ras}] /list:<targetname>
 # Alternate DataStreams
 dir /R
 more < <file>
