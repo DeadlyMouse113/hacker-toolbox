@@ -217,7 +217,7 @@ where /R <path c:\Windows> <search bash.exe>
 type <file>
 cacls (https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cacls)
 cacls <file> /E /P everyone:f
-
+runas
 # Alternate DataStreams
 dir /R
 more < <file>
