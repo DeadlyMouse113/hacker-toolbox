@@ -221,7 +221,7 @@ cacls <file> /E /P everyone:f
 # Alternate DataStreams
 dir /R
 more < <file>
-https://www.malwarebytes.com/blog/101/2015/07/introduction-to-alternate-data-streams
 ~~~
+https://www.malwarebytes.com/blog/101/2015/07/introduction-to-alternate-data-streams
 
 
