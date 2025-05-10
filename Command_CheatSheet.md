@@ -214,15 +214,33 @@ findstr /si password *.txt *.ini *.config
 # General Windows
 ~~~
 where /R <path c:\Windows> <search bash.exe>
-type <file>
 cacls (https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cacls)
 cacls <file> /E /P everyone:f
 runas
 cmdkey [{/add:<targetname>|/generic:<targetname>}] {/smartcard | /user:<username> [/pass:<password>]} [/delete{:<targetname> | /ras}] /list:<targetname>
 # Alternate DataStreams
 dir /R
+type <file>
 more < <file>
+more <file>
 ~~~
 https://www.malwarebytes.com/blog/101/2015/07/introduction-to-alternate-data-streams
 
+# Metasploit
+~~~
+search <search term>
+use <number/name>
+options
+set <LPORT/RHOSTS/SESSION/..>
+run or exploit
+sessions
+advanced
+
+# meterpreter
+background
+getuid
+ps
+migrate <ps id>
+getpid
+~~~
 
