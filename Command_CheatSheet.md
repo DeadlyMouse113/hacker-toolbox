@@ -120,7 +120,7 @@ https://www.computerhope.com/unix/smbclien.htm
 ## List SMB shares
 smbclient -L \\\\<target ip>\\
 
-smbclient -L \\<address / domain> -I <address> -N
+smbclient -L \\<address | domain> -I <address> -N
 ex. smblcient -L \\example.com -I 10.10.10.100 -N
 
 smbclient -U '%' -L \\<address>
