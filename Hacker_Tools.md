@@ -244,6 +244,9 @@
 * kerberoast tools - (https://www.kali.org/tools/kerberoast/)
 * impacket-GetUserSPNs - (https://www.kali.org/tools/impacket-scripts/)
 
+### Active Directory Certificate Services
+* Certipy - (https://github.com/ly4k/Certipy) (https://www.kali.org/tools/certipy-ad/)
+
 # Wireles Pentesting
 * aircrack-ng (assess WiFi network security) - (https://www.aircrack-ng.org/) - (airodump-ng)
 
